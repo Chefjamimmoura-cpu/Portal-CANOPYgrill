@@ -1,0 +1,387 @@
+1. PRD COMPLETO
+AURA HOTEL & ROOFTOP STEAKHOUSE
+Project Requirement Document for AI Consulting Systems
+PROJECT OVERVIEW
+
+Project Name:
+
+AURA Hotel Rooftop Steakhouse
+
+Project Type:
+
+Hotel renovation + rooftop restaurant development
+
+Location:
+
+Status International Hotel
+Croal Street & Sandyman Place
+Georgetown – Guyana
+
+Google Maps:
+
+https://www.google.com/maps/place/Status+International+Hotel/@6.8064333,-58.1566013
+
+The hotel will be rebranded as:
+
+AURA HOTEL
+
+PROJECT OBJECTIVE
+
+Transform an existing hotel building into a boutique hotel with a high-end rooftop steakhouse.
+
+The rooftop restaurant will be the main attraction of the property.
+
+Concept:
+
+Modern Steakhouse + Parrilla Experience
+
+BUILDING STRUCTURE
+
+The building has 4 floors.
+
+Ground Floor
+
+Functions:
+
+• hotel reception
+• existing restaurant (to be replaced by café)
+• commercial spaces
+• storage and service areas
+
+Future operational roles:
+
+• receiving goods
+• dry storage
+• cold rooms
+• staff locker rooms
+
+2nd Floor
+
+Guest rooms
+
+3rd Floor
+
+Guest rooms
+
+4th Floor (Rooftop)
+
+Main restaurant operation.
+
+Spaces include:
+
+Restaurant
+256 m²
+
+Kitchen
+62.97 m²
+
+Wine cellar
+12.46 m²
+
+Bathrooms
+
+Bar
+
+Garden terrace
+
+Service elevator
+
+These dimensions are confirmed in the latest architectural drawing.
+
+RESTAURANT CONCEPT
+
+Type:
+
+Rooftop Steakhouse
+
+Capacity:
+
+~100 guests
+
+Experience:
+
+Premium steakhouse with visible parrilla grill.
+
+Menu highlights:
+
+• Ribeye
+• T-bone
+• NY Strip
+• Picanha
+• Short rib
+• Bone marrow
+• Steak tartare
+• Shrimp cocktail
+• Burrata
+
+Sides:
+
+• mashed potatoes
+• creamed spinach
+• grilled vegetables
+• fries
+• risotto
+
+Desserts:
+
+• crème brûlée
+• tiramisu
+• cheesecake
+• flan
+
+KITCHEN CONCEPT
+
+The kitchen will be based on a custom monoblock cooking suite.
+
+Supplier:
+
+BKS – Netherlands
+
+This system integrates:
+
+• cooktops
+• fryers
+• pasta cooker
+• grills
+• preparation surfaces
+• refrigeration modules
+
+into a single stainless steel structure.
+
+EQUIPMENT ALREADY SPECIFIED
+
+Main equipment list already delivered to BKS.
+
+Includes:
+
+Gas range
+
+Gas griddle
+
+Gas pasta cooker
+
+Electric fryer
+15 kW
+
+Rational combi oven
+10 GN (later updated to possibly 2 × 6 GN)
+
+Salamander
+
+Sous-vide heater
+
+Robot Coupe vegetable cutter
+
+Refrigerated condiment rail
+
+Refrigerated counters
+
+Mini walk-in refrigerator
+
+Dishwasher (hood type)
+
+EXHAUST SYSTEM
+
+Three hood systems planned:
+
+1
+Main hot line hood
+
+2
+Parrilla grill hood
+
+3
+Dishwasher hood
+
+PROJECT STATUS
+
+The kitchen consultant (Chef Jamim Santos) has already delivered:
+
+• kitchen equipment specification
+• kitchen operational layout
+• kitchen workflow concept
+
+The BKS company is currently designing the monoblock cooking suite.
+
+Once their technical drawings are delivered, final infrastructure points will be defined.
+
+These include:
+
+• electrical connections
+• gas points
+• water connections
+• drainage points
+
+CURRENT PROJECT PHASE
+
+While waiting for BKS technical drawings, the project team must develop all other operational components.
+
+This includes:
+
+Kitchen equipment accessories
+Utensils
+Tabletop service
+Operational procedures
+Vertical logistics
+Hotel service logistics
+
+OPERATIONAL CHALLENGES IDENTIFIED
+
+During the site visit, several construction issues were observed:
+
+Lack of construction safety measures
+
+Workers without proper PPE
+
+No building safety netting
+
+Unclear routing of plumbing through slabs
+
+No technical rooftop area defined for exhaust systems
+
+No clear fire suppression infrastructure identified
+
+Water system uses pumped distribution instead of rooftop tanks
+
+HVAC duct routing not clearly defined
+
+These issues must be addressed by engineering.
+
+VERTICAL LOGISTICS
+
+The rooftop restaurant depends on vertical supply logistics.
+
+A service elevator with capacity 1050 kg exists.
+
+This elevator will transport:
+
+• food supplies
+• beverages
+• utensils
+• waste
+• equipment
+
+It must operate separately from guest elevators.
+
+GROUND FLOOR SUPPORT
+
+The restaurant requires support spaces on the ground floor.
+
+These areas are currently under evaluation.
+
+Required spaces:
+
+Receiving area
+
+Cold rooms
+
+Protein preparation room
+
+Dry storage
+
+Staff locker rooms
+
+Staff bathrooms
+
+Waste sorting area
+
+OPERATIONAL FLOW
+
+Recommended flow:
+
+Receiving
+↓
+Storage
+↓
+Pre-prep / butcher
+↓
+Service elevator
+↓
+Rooftop kitchen
+↓
+Expedition
+↓
+Dining room
+
+PARRILLA SYSTEM
+
+The steakhouse will include a show parrilla grill visible from the dining room.
+
+The grill will operate with charcoal or wood.
+
+Technical requirements:
+
+Heavy duty hood
+
+Ash drawer
+
+Fire-resistant surfaces
+
+Emergency gas shutoff integration
+
+CURRENT TASKS FOR CONSULTING SYSTEM
+
+The AI consulting system must assist with:
+
+1
+Complete kitchen utensil inventory
+
+2
+Bar equipment list
+
+3
+Tabletop service equipment
+
+4
+Operational flow design
+
+5
+Vertical logistics planning
+
+6
+Hotel service logistics
+
+7
+Standard Operating Procedures (SOP)
+
+8
+Maintenance planning
+
+9
+Supplier recommendations
+
+Priority sourcing regions:
+
+USA (especially Miami)
+
+Brazil
+
+Europe
+
+FINAL PROJECT GOAL
+
+Develop a complete document called:
+
+Restaurant Operational Master Plan
+
+This document will include:
+
+Kitchen operations
+
+Hotel logistics
+
+Procurement
+
+Service procedures
+
+Maintenance
+
+Operational flows
+
+This document will serve as:
+
+Implementation guide
+
+Staff training manual
+
+Operational blueprint
