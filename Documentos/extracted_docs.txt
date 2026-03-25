@@ -1,0 +1,7944 @@
+--- AURA_Estudo_Financeiro_v2.docx ---
+AURA Hotel Rooftop Steakhouse  •  Estudo Financeiro  •  Chef Jamim Moura
+
+
+
+
+
+
+
+
+
+◈
+
+AURA HOTEL
+
+ROOFTOP STEAKHOUSE
+
+
+
+ESTUDO FINANCEIRO
+
+Estimativa de Faturamento, Custos e Retorno sobre Investimento
+
+
+
+
+
+Georgetown, Guiana  •  2025
+
+
+
+
+
+Elaborado por
+
+Chef Jamim Moura Santos
+
+Consultor de Cozinha e Restaurante
+
+
+
+Para
+
+Sr. Sérgio Matos
+
+AURA Hotel — Proprietário
+
+
+
+
+SEÇÃO 1  —  PREMISSAS E PARÂMETROS DO MODELO
+
+Todas as projeções financeiras deste documento são baseadas nas premissas a seguir, derivadas do Plano Mestre Operacional do AURA Rooftop Steakhouse, do histórico de mercado de restaurantes premium em mercados emergentes, e das condições específicas de operação identificadas na consultoria.
+
+
+
+Capacidade e Operação
+
+Parâmetro
+
+Valor
+
+Base do Cálculo
+
+Capacidade instalada
+
+120 lugares
+
+Projeto arquitetônico — 256 m² de salão (recalibrado)
+
+Dias de operação por semana
+
+6 dias (Ter–Dom)
+
+Fechado segunda-feira para descanso da equipe
+
+Dias de operação por mês
+
+~26 dias/mês
+
+4,33 semanas × 6 dias
+
+Dias úteis por mês (Ter–Sex)
+
+~17 dias/mês
+
+Menor ocupação — à la carte padrão
+
+Fins de semana por mês (Sab–Dom)
+
+~9 dias/mês
+
+Maior ocupação — rodízio e eventos
+
+Serviço de almoço
+
+11h30 às 15h00
+
+3,5h de serviço — turno da manhã
+
+Happy Hour e jantar
+
+17h30 às 23h00
+
+5,5h de serviço — turno da noite
+
+Intervalo entre turnos
+
+15h00 às 17h30
+
+Limpeza, reabastecimento, troca de turno, elevador
+
+Modo À La Carte (Modo A)
+
+Dias úteis e almoço
+
+Cardápio internacional clássico
+
+Modo Rodízio (Modo B)
+
+Noites de fim de semana
+
+Espeto rotativo — prix fixe $85–$115/pessoa
+
+
+
+Análise de Mercado — Benchmark Georgetown 2025–2026
+
+Para calibrar os tickets médios com precisão, foi realizada pesquisa de mercado nos principais restaurantes premium ativos em Georgetown, Guiana, em março de 2026. O AURA será o único rooftop steakhouse da cidade — categoria sem concorrência direta.
+
+Restaurante
+
+Categoria
+
+Preço Referência
+
+Posicionamento
+
+Fonte
+
+Nikkei Guyana
+
+Fusão Peruana-Japonesa — #1 da cidade
+
+Ribeye GYD 12.000 ($58 USD) | Tomahawk GYD 35.000 ($168 USD) | Coquetéis GYD 2.500–4.500 ($12–22 USD)
+
+Referência de preço máximo — reserva com 1 semana de antecedência
+
+Cardápio oficial nikkeiguyana.com / mar. 2026
+
+Realm Steak House & Sky Bar
+
+Steakhouse Premium — USDA Prime + Wagyu + Sky Bar
+
+Drinque base ~$20 USD | Preço OpenTable $50+/pessoa | USDA Prime, Wagyu A5, costela de cordeiro
+
+Concorrente mais próximo — sem elemento rooftop exclusivo
+
+OpenTable / TripAdvisor / mar. 2026
+
+Texas de Brazil Guyana
+
+Churrascaria Brasileira — AYCE rodízio (abriu set. 2025)
+
+Prix fixe $50+ USD/pessoa | Localizado no MovieTowne Mall | Cordeiro avulso GYD 6.000 ($29 USD)
+
+Concorrente rodízio — posição inferior (mall, não rooftop)
+
+OpenTable / PRNewswire set. 2025
+
+Terra Mare by Marriott
+
+Internacional / Fine Dining — Guyana Marriott
+
+Ticket $31–50 USD/pessoa | Café da manhã até jantar
+
+Patamar inferior — sem especialização em carnes
+
+OpenTable / mar. 2026
+
+★ AURA Rooftop Steakhouse
+
+Steakhouse Premium Rooftop — ÚNICO na cidade
+
+Meta: almoço $58 | jantar útil $98 | jantar FDS $120
+
+Único rooftop steakhouse de Georgetown — prêmio de 15–20% sobre concorrentes térreos
+
+Este estudo / benchmark aplicado
+
+
+
+Conclusão do benchmark: Com o Nikkei cobrando $58 por um Ribeye simples e o Realm com drinques a $20, o AURA tem espaço claro para tickets premium. A exclusividade do rooftop (única vista de 360° de Georgetown) justifica um prêmio de 15–20% sobre os concorrentes em nível de rua.
+
+
+
+Ticket Médio por Serviço (USD) — Revisado
+
+Tickets recalibrados com base no benchmark de mercado de Georgetown e no posicionamento exclusivo do rooftop:
+
+Serviço
+
+Ticket Médio / Pessoa
+
+Composição Estimada
+
+Justificativa de Mercado
+
+Almoço (À La Carte)
+
+$58
+
+Comida $40 + Bebida $18
+
+Ribeye 300g no Nikkei = $58 só o prato. AURA almoço: corte menor + side + bebida = $58 justificado
+
+Jantar Dia Útil
+
+$98
+
+Comida $65 + Bebida $33
+
+Realm cocktail base $20 + USDA Ribeye $55 + sides $18 = $93 min. Com entrada: $98
+
+Jantar Fim de Semana
+
+$120
+
+Comida $75 + Bebida $45
+
+Texas de Brazil $50+ em mall. AURA rooftop exclusivo + rodízio premium + drinks assinatura = $120
+
+Ticket Médio Ponderado
+
+~$92
+
+Média dos 3 serviços
+
+Referência para análise geral — +24% vs. premissa anterior de $74
+
+
+
+Composição Detalhada do Ticket Médio — Modo A (À La Carte)
+
+O Modo A combina três pilares do cardápio: steaks da parrilla, clássicos internacionais e acompanhamentos. A tabela abaixo detalha como o ticket se forma na prática, pedido a pedido, validando as projeções de receita e CMV.
+
+
+
+ALMOÇO — Ticket Médio $58 / pessoa
+
+Componente do Pedido
+
+Item de Referência
+
+Preço
+
+% do Ticket
+
+Observação
+
+Entrada (opcional)
+
+Empanadas × 2 ou Provoleta
+
+$12
+
+27%
+
+~50% dos clientes pedem entrada no almoço
+
+Prato Principal — Steak
+
+NY Strip 300g ou Picanha 300g
+
+$28
+
+62%
+
+Corte de almoço: porção menor, preço acessível
+
+Prato Principal — Alt.
+
+Tagliatelle al Ragù ou Risoto
+
+$24
+
+53%
+
+Opção para quem não pede carne
+
+Acompanhamento
+
+Purê de Mandioquinha ou Farofa Bacon
+
+$9
+
+20%
+
+~60% dos clientes adicionam 1 acompanhamento
+
+Bebida
+
+Suco / Refrigerante / Cerveja
+
+$8–14
+
+18–31%
+
+Almoço: menor consumo de vinho e destilados
+
+Sobremesa (opcional)
+
+Pudim de Leite ou Crème Brûlée
+
+$10
+
+22%
+
+~30% dos clientes pedem sobremesa no almoço
+
+── TICKET MÉDIO ALMOÇO ──
+
+Mix ponderado dos itens acima
+
+~$58
+
+100%
+
+Sem entrada + 1 prato + bebida = ~$48 | Com entrada + sobremesa = ~$70
+
+
+
+JANTAR DIA ÚTIL — Ticket Médio $98 / pessoa
+
+Componente do Pedido
+
+Item de Referência
+
+Preço
+
+% do Ticket
+
+Observação
+
+Entrada
+
+Steak Tartare, Tutano ou Crab Cakes
+
+$16–22
+
+20–27%
+
+~80% dos jantares incluem entrada
+
+Prato Principal — Steak
+
+Ribeye 350g ou T-Bone 500g
+
+$42–48
+
+51–59%
+
+Carro-chefe do jantar — maior margem de satisfação
+
+Prato Principal — Alt.
+
+Pappardelle c/ Filé ou Camarão ao Alho
+
+$32–36
+
+39–44%
+
+~25% dos clientes optam por massas ou frutos do mar
+
+Acompanhamentos (×2)
+
+Espinafre Cremoso + Batata Frita / Mac & Cheese
+
+$18
+
+22%
+
+Jantar: média de 2 acompanhamentos por pessoa
+
+Molho adicional
+
+Béarnaise, Chimichurri Verde, Jus
+
+$4
+
+5%
+
+Upselling simples — alta margem
+
+Vinho (taça)
+
+Malbec, Carménère ou Chardonnay
+
+$16–24
+
+20–29%
+
+~70% dos jantares dia útil incluem vinho
+
+Sobremesa
+
+Tiramisu, Cheesecake ou Alfajor
+
+$12
+
+15%
+
+~55% dos jantares incluem sobremesa
+
+── TICKET MÉDIO JANTAR ──
+
+Mix ponderado — sem bebida alcoólica $65
+
+~$98
+
+100%
+
+Comida $65 + Bebida $33 = $98 validado pelo benchmark Realm/Nikkei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JANTAR FIM DE SEMANA — Ticket Médio $120 / pessoa (Modo B Rodízio + Modo A Premium)
+
+Componente do Pedido
+
+Item de Referência
+
+Preço
+
+% do Ticket
+
+Observação
+
+Rodízio Prix Fixe (Modo B)
+
+Clásico $85 | Premium $115 (proteínas ilimitadas + sides)
+
+$85–115
+
+71–96%
+
+Ticket fixo — previsibilidade de receita
+
+Entrada (Modo A clientes)
+
+Ostras, Burrata ou Steak Tartare
+
+$18–24
+
+19–25%
+
+Clientes Modo A pedem mais entradas no fim de semana
+
+Steak Premium (Modo A)
+
+Ribeye 350g, Costeletas de Cordeiro
+
+$48–58
+
+51–61%
+
+Cortes premium têm maior procura nos fins de semana
+
+Acompanhamentos (×2–3)
+
+Vasilhas de barro: Farofa, Espinafre, Milho Grelhado
+
+$20–26
+
+21–27%
+
+Rodízio: sides inclusos | Modo A: pedido avulso
+
+Bebidas — Caipirinhas
+
+Caipirinha Clássica / Maracujá / Especial
+
+$12–16
+
+13–17%
+
+Maior consumo de destilados no fim de semana
+
+Bebidas — Vinho
+
+Malbec Argentino, Carménère Chileno
+
+$20–28
+
+21–29%
+
+Rodízio: harmonização natural com carnes
+
+Cocktails Assinatura
+
+AURA Smoked Old Fashioned, Negroni da Parrilla
+
+$16–20
+
+17–21%
+
+Maior consumo de drinks autorais no fim de semana
+
+── TICKET MÉDIO FDS ──
+
+Mix ponderado Modo A + Modo B
+
+~$120
+
+100%
+
+Comida $75 + Bebida $45 = $120 validado pelo benchmark rooftop
+
+
+
+Impacto do CMV por Categoria de Prato
+
+Cada categoria do cardápio tem um custo diferente — o mix de vendas define o CMV blended final. Steaks têm custo mais alto, mas bebidas e acompanhamentos equilibram a margem global:
+
+Categoria
+
+Preço Médio Venda
+
+CMV Estimado
+
+Margem Bruta
+
+Estratégia
+
+Steaks da Parrilla (Ribeye, T-Bone, Picanha)
+
+$38–48
+
+38–42%
+
+58–62%
+
+Alto volume + controle de fichas = sustentabilidade
+
+Cortes Menores (NY Strip, Frango, Peixe do Dia)
+
+$24–32
+
+30–34%
+
+66–70%
+
+Complementam o mix e reduzem o CMV blended
+
+Clássicos Internacionais (Massas, Risotos)
+
+$24–36
+
+22–26%
+
+74–78%
+
+Alta margem — equilibram o CMV dos steaks
+
+Acompanhamentos
+
+$9–13
+
+20–24%
+
+76–80%
+
+Maior margem da cozinha — upselling prioritário
+
+Entradas
+
+$12–22
+
+28–32%
+
+68–72%
+
+Mix variado — Tartare e Tutano têm food cost maior
+
+Sobremesas
+
+$10–14
+
+18–22%
+
+78–82%
+
+Confeiteiro e Padeiro internos = custo de produção menor
+
+Bebidas — Bar / Coquetéis
+
+$12–20
+
+15–20%
+
+80–85%
+
+Maior margem da operação — alavancagem via bares
+
+Bebidas — Vinhos (taça/garrafa)
+
+$16–85
+
+28–35%
+
+65–72%
+
+Sommelier é key para upselling de garrafas
+
+── CMV BLENDED RESULTANTE ──
+
+Mix de vendas Modo A
+
+~28–33%
+
+~67–72%
+
+Meta: steaks 45% da receita de alimentos
+
+
+
+Conclusão: o mix equilibrado entre steaks (alto custo), massas/risotos (baixo custo) e bebidas (margem muito alta) sustenta o CMV blended entre 28% e 33% — validando os cenários projetados neste estudo.
+
+
+
+Cenários de Ocupação
+
+A ocupação estimada reflete a curva de maturação típica de um restaurante premium em mercado emergente com forte apoio da estrutura hoteleira:
+
+Cenário
+
+Almoço (% cap.)
+
+Jantar Dia Útil
+
+Jantar Fim de Semana
+
+Covers/Dia Estimado
+
+Período de Referência
+
+CONSERVADOR
+
+40% — 48 cov.
+
+52% — 62 cov.
+
+65% — 78 cov.
+
+~65 cov./dia
+
+Ano 1 — Implantação e aprendizado
+
+MODERADO
+
+62% — 74 cov.
+
+68% — 82 cov.
+
+82% — 98 cov.
+
+~90 cov./dia
+
+Ano 2 — Consolidação e crescimento
+
+OTIMISTA
+
+78% — 94 cov.
+
+80% — 96 cov.
+
+92% — 110 cov.
+
+~110 cov./dia
+
+Ano 3+ — Maturidade e fidelização
+
+
+
+Targets de CMV e Margens
+
+CMV = Custo de Mercadoria Vendida (food cost + beverage cost / receita bruta):
+
+CMV Target
+
+Benchmark
+
+Estratégia para Atingir
+
+Classificação
+
+28% — META IDEAL
+
+Restaurantes fine dining bem gerenciados
+
+Fichas técnicas rígidas, negociação de fornecedores, controle de desperdício zero, cardápio engenheirado
+
+✓ Meta de Excelência
+
+33% — MODERADO
+
+Padrão de mercado steakhouses premium
+
+Bom controle com alguma variação aceitável — proteínas representam o maior risco de custo
+
+✓ Operação Saudável
+
+40% — DEADLINE
+
+Limite máximo de operação sustentável
+
+Abaixo desse patamar o modelo deixa de ser rentável — sinal de alerta para revisão imediata do cardápio e fornecedores
+
+⚠ Linha de Corte
+
+
+
+
+
+SEÇÃO 2  —  ESTRUTURA DE CUSTOS FIXOS MENSAIS
+
+Os custos fixos foram dimensionados com base na equipe real definida pelo Chef Jamim Moura para a operação de 120 lugares em 2 turnos diários (almoço e jantar), 6 dias por semana. A estrutura de salão opera em modo duplo: Modo A (À La Carte) e Modo B (Rodízio), com a mesma equipe em funções distintas conforme o serviço.
+
+NOTA IMPORTANTE: O restaurante opera dentro do AURA Hotel do Sr. Sérgio Matos — sem custo de aluguel. Isso representa uma vantagem de $8.000–$15.000/mês vs. um restaurante independente equivalente.
+
+
+
+Escala de Serviço — Modo A × Modo B
+
+Cargo
+
+Modo A (À La Carte)
+
+Modo B (Rodízio)
+
+Turno
+
+4 Garçons
+
+4 garçons ativos no serviço
+
+2 garçons ativos (gestão de mesa)
+
+Almoço e Jantar
+
+4 Passadores
+
+Apoio de serviço — runners
+
+4 passadores ativos com espeto
+
+Jantar (foco Modo B)
+
+1 Cumim
+
+Runner / busboy de suporte
+
+Runner / busboy de suporte
+
+Ambos os turnos
+
+Gerente + Sommelier
+
+Supervisão + wine service
+
+Supervisão + harmonização
+
+Jantar (foco)
+
+Nota de operação
+
+Total FOH ativo: 6 pessoas
+
+Total FOH ativo: 7 pessoas
+
+—
+
+
+
+1. Folha de Pagamento — Equipe Completa (2 Turnos)
+
+Todos os valores em USD / mês. Salários baseados no mercado local de Georgetown, Guiana, com referências de mercados comparáveis (Caribe e América do Sul):
+
+
+
+Cargo / Função
+
+Qtd
+
+Salário Unit.
+
+Subtotal
+
+Turno
+
+Observação
+
+COZINHA  —  2 Turnos  |  15 colaboradores
+
+Chef Executivo
+
+1
+
+$2.500
+
+$2,500
+
+Turno Principal + supervisão
+
+Referência técnica de ambos os turnos
+
+Cozinheiro
+
+2
+
+$950
+
+$1,900
+
+1 por turno
+
+Linha quente e execução do cardápio
+
+Auxiliar de Cozinha
+
+4
+
+$560
+
+$2,240
+
+2 por turno
+
+Preparo, mise en place e suporte à linha
+
+Lavador / Higienizador
+
+2
+
+$480
+
+$960
+
+1 por turno
+
+Louças, higienização e limpeza corrente
+
+Parrilheiro
+
+2
+
+$1.050
+
+$2,100
+
+1 por turno
+
+Especialista na parrilla — açougueiro cobre folga
+
+Açougueiro
+
+1
+
+$950
+
+$950
+
+Turno 1
+
+Butchery + preparo de proteínas + cobre parrilheiro
+
+Serviço Geral
+
+1
+
+$450
+
+$450
+
+Diurno
+
+Limpeza geral, suporte entre turnos e elevador
+
+Confeiteiro
+
+1
+
+$880
+
+$880
+
+1 Turno
+
+Sobremesas, crème brûlée, tiramisu, alfajor
+
+Padeiro
+
+1
+
+$820
+
+$820
+
+1 Turno
+
+Pão artesanal, pão de alho, massa fresca e crostini
+
+Subtotal Cozinha (9 funções / 15 pessoas)
+
+$12,800
+
+SALÃO / FOH  —  Modo A e B  |  11 colaboradores
+
+Gerente de Restaurante
+
+1
+
+$2.200
+
+$2,200
+
+Ambos
+
+Supervisão geral do serviço e operação
+
+Sommelier
+
+1
+
+$1.400
+
+$1,400
+
+Jantar
+
+Harmonização, serviço de vinhos e upselling
+
+Garçom
+
+4
+
+$700
+
+$2,800
+
+Ambos
+
+Modo A: 4 ativos | Modo B: 2 ativos no serviço
+
+Passador de Carne
+
+4
+
+$660
+
+$2,640
+
+Jantar (foco)
+
+Modo B: 4 ativos c/ espeto | Modo A: apoio runners
+
+Cumim (Busboy/Runner)
+
+1
+
+$480
+
+$480
+
+Ambos
+
+Runner, reposição de pão e suporte à mesa
+
+Subtotal Salão (5 funções / 11 pessoas)
+
+$9,520
+
+BAR  |  2 colaboradores
+
+Bartender
+
+1
+
+$1.050
+
+$1,050
+
+Jantar (foco)
+
+Coquetéis assinatura, caipirinha, programa de bar
+
+Auxiliar de Bar
+
+1
+
+$580
+
+$580
+
+Ambos
+
+Prep de bar, mise en place, suporte ao bartender
+
+Subtotal Bar (2 funções / 2 pessoas)
+
+$1,630
+
+ADMINISTRATIVO  |  1 colaborador
+
+Comprador / Encarregado
+
+1
+
+$800
+
+$800
+
+Diurno
+
+Compras, recebimento, controle de estoque
+
+Subtotal Administrativo (1 função / 1 pessoa)
+
+$800
+
+
+
+FOLHA BRUTA  (29 colaboradores — total)
+
+$24,750
+
+(+) Encargos Sociais 20% sobre folha bruta
+
+$4,950
+
+★ TOTAL FOLHA COM ENCARGOS
+
+$29,700
+
+
+
+Headcount total: 29 colaboradores | Cozinha: 15 | Salão: 11 | Bar: 2 | Admin: 1
+
+Confeiteiro e Padeiro: contratados para 1 turno — custo já refletido nos salários proporcionais acima.
+
+
+
+2. Outros Custos Fixos Mensais
+
+Item de Custo
+
+Valor Mensal
+
+Observação
+
+Utilidades — Eletricidade (HVAC, cozinha, iluminação rooftop)
+
+$5,200
+
+Rooftop com HVAC intensivo — estimativa conservadora
+
+Marketing e Mídias Sociais
+
+$2,000
+
+Gestor de conteúdo + impulsionamento + eventos sazonais
+
+Seguro (restaurante + responsabilidade civil)
+
+$1,500
+
+Cobertura completa do restaurante e equipamentos
+
+Contabilidade e Assessoria Legal
+
+$1,200
+
+Fechamento mensal + obrigações fiscais locais da Guiana
+
+Tecnologia (POS, KDS, reservas)
+
+$500
+
+OpenTable/Resy + assinatura sistema POS mensal
+
+Contrato de Manutenção Preventiva
+
+$1,200
+
+Inclui coifa, refrigeração e espeto rotativo
+
+Limpeza, Higiene e Rouparia Lavanderia
+
+$900
+
+Higienização de uniformes + lavanderia de rouparia
+
+Telefone, Internet e Comunicação
+
+$350
+
+Linhas dedicadas do restaurante
+
+Descartáveis e Suprimentos de Serviço
+
+$600
+
+Guardanapos, sacos e suprimentos de serviço
+
+Reserva de Contingência Operacional
+
+$1,000
+
+Imprevistos mensais — reparos emergenciais, reposição
+
+
+
+TOTAL FOLHA COM ENCARGOS
+
+$29,700
+
+Detalhado acima — 29 colaboradores
+
+TOTAL OUTROS CUSTOS FIXOS
+
+$14,450
+
+Utilidades + marketing + seguros + admin
+
+★ TOTAL CUSTOS FIXOS MENSAIS
+
+$44,150
+
+Base para análise de break-even e DRE
+
+
+
+★ Custo fixo total de $44,150/mês. Com a ausência de aluguel (hotel próprio), este valor já incorpora a principal vantagem competitiva do modelo — a estrutura de custos é ~25% mais leve que um steakhouse equivalente em localização independente.
+
+
+
+SEÇÃO 3  —  ESTRUTURA DE CUSTOS VARIÁVEIS
+
+Os custos variáveis são proporcionais ao faturamento. Para um steakhouse premium com operação híbrida, os principais são o CMV (custo de mercadoria vendida) e os custos operacionais variáveis ligados ao volume de serviço.
+
+
+
+CMV — Custo de Mercadoria Vendida
+
+O CMV é o principal custo variável e o maior vetor de margem. A composição no AURA considera a divisão aproximada entre receita de alimentos (~65%) e bebidas (~35%):
+
+Categoria
+
+% Receita do Segmento
+
+Impacto sobre o CMV Blended
+
+Observação
+
+Food Cost (alimentos — carnes, hortifruti, pantry)
+
+60–70% do custo de alimentos
+
+Carnes representam ~55% do food cost total
+
+Proteínas premium importadas elevam o custo
+
+Beverage Cost (bebidas — vinhos, destilados, bar)
+
+22–28% do custo de bebidas
+
+Cachaça e cervejas artesanais têm custo menor que vinhos importados
+
+Mix de bebidas influencia muito o blended
+
+CMV BLENDED META (28%)
+
+Blend food 30% + bev 22%
+
+Receita: 65%×30% + 35%×22% = 27.2% ≈ 28%
+
+Exige fichas técnicas + controle rigoroso
+
+CMV BLENDED MODERADO (33%)
+
+Blend food 35% + bev 27%
+
+Receita: 65%×35% + 35%×27% = 32.2% ≈ 33%
+
+Operação saudável sem pressão excessiva
+
+CMV BLENDED DEADLINE (40%)
+
+Blend food 44% + bev 30%
+
+Linha de alerta — proteínas sem controle de fichas
+
+Revisão urgente de cardápio e fornecedores
+
+
+
+Outros Custos Variáveis (% da Receita Bruta)
+
+Custo Variável
+
+% Estimado
+
+Valor Mensal (Cenário Moderado)
+
+Detalhe
+
+Processamento de pagamentos (cartão/taxa)
+
+2,5%
+
+$5,585
+
+Visa/Mastercard + taxas bancárias locais
+
+Mão de obra variável (horas extras, gorjetas pagas)
+
+3,5%
+
+$7,819
+
+Fins de semana e eventos — horas extras remuneradas
+
+Carvão vegetal, lenha e descartáveis de serviço
+
+1,0%
+
+$2,234
+
+Carvão para parrilla (~$800–1.200/mês) + suprimentos
+
+Comissão de reservas / delivery (se aplicável)
+
+1,5%
+
+$3,351
+
+Plataformas de reserva e eventuais parcerias
+
+SUBTOTAL OUTROS VARIÁVEIS
+
+8,5%
+
+$18,989
+
+Sobre receita bruta — todos os cenários
+
+
+
+Resumo da Estrutura de Custos
+
+Bloco de Custo
+
+CMV 28%
+
+CMV 33%
+
+CMV 40%
+
+Tipo
+
+CMV (mercadoria vendida)
+
+28,0%
+
+33,0%
+
+40,0%
+
+Variável — proporcional à receita
+
+Outros custos variáveis
+
+8,5%
+
+8,5%
+
+8,5%
+
+Variável — proporcional à receita
+
+TOTAL VARIÁVEL
+
+36,5%
+
+41,5%
+
+48,5%
+
+
+
+MARGEM DE CONTRIBUIÇÃO
+
+63,5%
+
+58,5%
+
+51,5%
+
+Disponível para cobrir fixos + lucro
+
+Custos fixos (sobre receita moderada $223K)
+
+~22%
+
+~22%
+
+~22%
+
+Fixo independente do faturamento
+
+EBITDA ESTIMADO (Cenário Moderado)
+
+~41,5%
+
+~36,5%
+
+~29,5%
+
+Antes de depreciação e impostos
+
+
+
+Estratégias para Controle do CMV
+
+Estratégia
+
+Impacto no CMV
+
+Prioridade
+
+Fichas técnicas por prato com gramatura exata
+
+Redução de 3–5% no food cost
+
+CRÍTICO — implementar no pré-operacional
+
+Porcionamento padronizado e pesagem obrigatória
+
+Redução de 2–3% no food cost
+
+CRÍTICO
+
+Cardápio engenheirado (menu engineering)
+
+Otimização do mix venda × margem
+
+ALTO — revisão trimestral
+
+Negociação de volume com Allen Brothers / Creekstone
+
+Redução de 2–4% no custo de proteínas
+
+ALTO — antes da abertura
+
+FIFO rigoroso e inventário diário
+
+Redução de 1–2% no desperdício
+
+ESSENCIAL
+
+Programa de bebidas da casa (cachaças selecionadas, vinho da casa)
+
+Beverage cost baixo com ticket alto
+
+ALTO — caipirinhas são oportunidade de margem
+
+Controle de harmonização sugerida pelo sommelier
+
+Aumento do ticket médio de bebidas
+
+MÉDIO
+
+Análise semanal de CMV por categoria
+
+Detecção precoce de desvios
+
+ALTO — relatório semanal ao Head Chef
+
+
+
+
+
+
+SEÇÃO 4  —  PROJEÇÕES DE FATURAMENTO — MENSAL E ANUAL
+
+As projeções a seguir foram calculadas para os três cenários de ocupação, detalhando a receita por serviço (almoço, jantar dias úteis e jantar fins de semana), com resumo mensal e anual. Todos os valores em dólares americanos (USD).
+
+
+
+Modelo de Receita por Serviço — Os Três Cenários
+
+
+
+CONSERVADOR Ano 1
+
+MODERADO Ano 2
+
+OTIMISTA Ano 3+
+
+Parâmetro Base
+
+OCUPAÇÃO
+
+
+
+ 
+
+
+
+
+
+Covers almoço (por dia)
+
+48 / 100
+
+74 / 100
+
+94 / 100
+
+26 dias × almoço
+
+Covers jantar dia útil (por dia)
+
+62 / 100
+
+82 / 100
+
+96 / 100
+
+17 dias × úteis
+
+Covers jantar fim de semana (por dia)
+
+78 / 100
+
+98 / 100
+
+110 / 100
+
+9 dias × fim de semana
+
+RECEITA MENSAL POR SERVIÇO
+
+
+
+
+
+
+
+
+
+Almoço (48|74|94 cov. × $58 × 26d)
+
+$72,384
+
+$111,592
+
+$141,752
+
+Ticket médio $58
+
+Jantar dia útil × $98 × 17 dias
+
+$103,292
+
+$136,612
+
+$159,936
+
+Ticket médio $98
+
+Jantar fim de semana × $120 × 9 dias
+
+$84,240
+
+$105,840
+
+$118,800
+
+Ticket médio $120 (rodízio)
+
+RECEITA BRUTA MENSAL
+
+CONSERVADOR
+
+MODERADO
+
+OTIMISTA
+
+REFERÊNCIA
+
+★ TOTAL MENSAL
+
+$259,916
+
+$354,044
+
+$420,488
+
+Base de análise
+
+★ TOTAL ANUAL
+
+$3,118,992
+
+$4,248,528
+
+$5,045,856
+
+× 12 meses
+
+
+
+Receita por cover por dia (média ponderada): Conservador ~$87/cov | Moderado ~$84/cov | Otimista ~$83/cov
+
+
+
+
+
+
+Distribuição da Receita por Tipo de Serviço (Cenário Moderado)
+
+Serviço
+
+Receita Mensal
+
+% da Receita Total
+
+Dias no Mês
+
+Receita/Dia
+
+Almoço (À La Carte)
+
+$111,592
+
+31.5%
+
+26 dias
+
+$4,292
+
+Jantar Dia Útil
+
+$136,612
+
+38.6%
+
+17 dias
+
+$8,036
+
+Jantar Fim de Semana (Rodízio)
+
+$105,840
+
+29.9%
+
+9 dias
+
+$11,760
+
+TOTAL MENSAL
+
+$354,044
+
+100%
+
+26 dias
+
+$13,617
+
+
+
+SEÇÃO 5  —  DRE — DEMONSTRATIVO DE RESULTADO
+
+O DRE a seguir apresenta o resultado operacional (EBITDA) para cada combinação de cenário de receita (ocupação) × CMV. A meta de margem mínima estabelecida é de 15% — denominada DEADLINE. A zona alvo é de 20% a 30%.
+
+Nota: EBITDA = Earnings Before Interest, Taxes, Depreciation and Amortization — Lucro antes de juros, impostos, depreciação e amortização. Para fins desta análise pre-operacional, equivale ao resultado operacional líquido.
+
+
+
+DRE — CONSERVADOR | $259,916/mês
+
+
+
+CMV 28% (Meta)
+
+
+
+CMV 33% (Moderado)
+
+
+
+CMV 40% (Deadline)
+
+
+
+CONTA DRE
+
+MENSAL
+
+ANUAL
+
+MENSAL
+
+ANUAL
+
+MENSAL
+
+ANUAL
+
+(+) Receita Bruta
+
+$259,916
+
+$3,118,992
+
+$259,916
+
+$3,118,992
+
+$259,916
+
+$3,118,992
+
+(–) CMV — Custo Mercadoria
+
+$72,776
+
+$873,318
+
+$85,772
+
+$1,029,267
+
+$103,966
+
+$1,247,597
+
+    % CMV sobre receita
+
+28,0%
+
+28,0%
+
+33,0%
+
+33,0%
+
+40,0%
+
+40,0%
+
+(=) LUCRO BRUTO
+
+$187,140
+
+$2,245,674
+
+$174,144
+
+$2,089,725
+
+$155,950
+
+$1,871,395
+
+(–) Outros custos variáveis (8,5%)
+
+$22,093
+
+$265,114
+
+$22,093
+
+$265,114
+
+$22,093
+
+$265,114
+
+(=) MARGEM DE CONTRIBUIÇÃO
+
+$165,047
+
+$1,980,560
+
+$152,051
+
+$1,824,610
+
+$133,857
+
+$1,606,281
+
+    % Margem de Contribuição
+
+63.5%
+
+63.5%
+
+58.5%
+
+58.5%
+
+51.5%
+
+51.5%
+
+(–) Custos Fixos Totais
+
+$44,150
+
+$529,800
+
+$44,150
+
+$529,800
+
+$44,150
+
+$529,800
+
+★ EBITDA / RESULTADO OPERACIONAL
+
+$120,897
+
+$1,450,760
+
+$107,901
+
+$1,294,810
+
+$89,707
+
+$1,076,481
+
+    % EBITDA (Margem Operacional)
+
+46.5%
+
+46.5%
+
+41.5%
+
+41.5%
+
+34.5%
+
+34.5%
+
+    SEMÁFORO DE META
+
+✓ ACIMA DO DEADLINE
+
+
+
+✓ ACIMA DO DEADLINE
+
+
+
+✓ ACIMA DO DEADLINE
+
+
+
+
+
+DRE — MODERADO | $354,044/mês
+
+
+
+CMV 28% (Meta)
+
+
+
+CMV 33% (Moderado)
+
+
+
+CMV 40% (Deadline)
+
+
+
+CONTA DRE
+
+MENSAL
+
+ANUAL
+
+MENSAL
+
+ANUAL
+
+MENSAL
+
+ANUAL
+
+(+) Receita Bruta
+
+$354,044
+
+$4,248,528
+
+$354,044
+
+$4,248,528
+
+$354,044
+
+$4,248,528
+
+(–) CMV — Custo Mercadoria
+
+$99,132
+
+$1,189,588
+
+$116,835
+
+$1,402,014
+
+$141,618
+
+$1,699,411
+
+    % CMV sobre receita
+
+28,0%
+
+28,0%
+
+33,0%
+
+33,0%
+
+40,0%
+
+40,0%
+
+(=) LUCRO BRUTO
+
+$254,912
+
+$3,058,940
+
+$237,209
+
+$2,846,514
+
+$212,426
+
+$2,549,117
+
+(–) Outros custos variáveis (8,5%)
+
+$30,094
+
+$361,125
+
+$30,094
+
+$361,125
+
+$30,094
+
+$361,125
+
+(=) MARGEM DE CONTRIBUIÇÃO
+
+$224,818
+
+$2,697,815
+
+$207,116
+
+$2,485,389
+
+$182,333
+
+$2,187,992
+
+    % Margem de Contribuição
+
+63.5%
+
+63.5%
+
+58.5%
+
+58.5%
+
+51.5%
+
+51.5%
+
+(–) Custos Fixos Totais
+
+$44,150
+
+$529,800
+
+$44,150
+
+$529,800
+
+$44,150
+
+$529,800
+
+★ EBITDA / RESULTADO OPERACIONAL
+
+$180,668
+
+$2,168,015
+
+$162,966
+
+$1,955,589
+
+$138,183
+
+$1,658,192
+
+    % EBITDA (Margem Operacional)
+
+51.0%
+
+51.0%
+
+46.0%
+
+46.0%
+
+39.0%
+
+39.0%
+
+    SEMÁFORO DE META
+
+✓ ACIMA DO DEADLINE
+
+
+
+✓ ACIMA DO DEADLINE
+
+
+
+✓ ACIMA DO DEADLINE
+
+
+
+
+
+DRE — OTIMISTA | $420,488/mês
+
+
+
+CMV 28% (Meta)
+
+
+
+CMV 33% (Moderado)
+
+
+
+CMV 40% (Deadline)
+
+
+
+CONTA DRE
+
+MENSAL
+
+ANUAL
+
+MENSAL
+
+ANUAL
+
+MENSAL
+
+ANUAL
+
+(+) Receita Bruta
+
+$420,488
+
+$5,045,856
+
+$420,488
+
+$5,045,856
+
+$420,488
+
+$5,045,856
+
+(–) CMV — Custo Mercadoria
+
+$117,737
+
+$1,412,840
+
+$138,761
+
+$1,665,132
+
+$168,195
+
+$2,018,342
+
+    % CMV sobre receita
+
+28,0%
+
+28,0%
+
+33,0%
+
+33,0%
+
+40,0%
+
+40,0%
+
+(=) LUCRO BRUTO
+
+$302,751
+
+$3,633,016
+
+$281,727
+
+$3,380,724
+
+$252,293
+
+$3,027,514
+
+(–) Outros custos variáveis (8,5%)
+
+$35,741
+
+$428,898
+
+$35,741
+
+$428,898
+
+$35,741
+
+$428,898
+
+(=) MARGEM DE CONTRIBUIÇÃO
+
+$267,010
+
+$3,204,119
+
+$245,985
+
+$2,951,826
+
+$216,551
+
+$2,598,616
+
+    % Margem de Contribuição
+
+63.5%
+
+63.5%
+
+58.5%
+
+58.5%
+
+51.5%
+
+51.5%
+
+(–) Custos Fixos Totais
+
+$44,150
+
+$529,800
+
+$44,150
+
+$529,800
+
+$44,150
+
+$529,800
+
+★ EBITDA / RESULTADO OPERACIONAL
+
+$222,860
+
+$2,674,319
+
+$201,835
+
+$2,422,026
+
+$172,401
+
+$2,068,816
+
+    % EBITDA (Margem Operacional)
+
+53.0%
+
+53.0%
+
+48.0%
+
+48.0%
+
+41.0%
+
+41.0%
+
+    SEMÁFORO DE META
+
+✓ ACIMA DO DEADLINE
+
+
+
+✓ ACIMA DO DEADLINE
+
+
+
+✓ ACIMA DO DEADLINE
+
+
+
+
+
+
+
+
+Matriz de Margens — Visão Consolidada
+
+Margem EBITDA (%) para cada combinação de cenário de receita × CMV:
+
+Cenário de Receita
+
+CMV 28% (Meta)
+
+CMV 33% (Moderado)
+
+CMV 40% (Deadline)
+
+CONSERVADOR
+
+46.5%  ★★ EXCELENTE
+
+41.5%  ★★ EXCELENTE
+
+34.5%  ★★ EXCELENTE
+
+MODERADO
+
+51.0%  ★★ EXCELENTE
+
+46.0%  ★★ EXCELENTE
+
+39.0%  ★★ EXCELENTE
+
+OTIMISTA
+
+53.0%  ★★ EXCELENTE
+
+48.0%  ★★ EXCELENTE
+
+41.0%  ★★ EXCELENTE
+
+
+
+★★ EXCELENTE = Margem ≥ 30%  |  ★ NA META = 20–30%  |  △ DEADLINE = 15–20%  |  ✗ ABAIXO = < 15%
+
+
+
+
+
+SEÇÃO 6  —  INVESTIMENTO DE MONTAGEM — CAPEX ESTIMADO
+
+O CAPEX (Capital Expenditure) a seguir representa o investimento necessário para montar e equipar o AURA Rooftop Steakhouse do zero, considerando que o imóvel já está disponível como parte do AURA Hotel do Sr. Sérgio Matos. Os custos de reforma estrutural do hotel NÃO estão incluídos — apenas os custos de montagem operacional do restaurante.
+
+Nota: Valores estimados em USD com base em cotações de mercado de 2024–2025. Variações de câmbio, fretes internacionais e taxas alfandegárias da Guiana podem impactar os valores finais em ±15%.
+
+
+
+EQUIPAMENTOS DE COZINHA
+
+Item
+
+Investimento Estimado
+
+Suite de cozimento BKS (monoblock Netherlands) + frete + instalação
+
+$200,000
+
+Sistema de espeto rotativo motorizado (4–6 espetos, motor 110/220V)
+
+$22,000
+
+Câmaras frias (proteínas + laticínios) — térreo
+
+$28,000
+
+Balcões refrigerados, adega e refrigeração de bar
+
+$18,000
+
+Máquina de gelo + sistema de chope 4 torneiras
+
+$8,500
+
+Exaustores e coifas (3 sistemas: parrilla + linha BKS + lava-louças)
+
+$15,000
+
+Lava-louças hood type + instalação
+
+$9,500
+
+Equipamentos menores de bar (blenders, pistolas de fumaça, etc.)
+
+$6,000
+
+
+
+
+
+
+
+
+MOBILIÁRIO E DECORAÇÃO
+
+Item
+
+Investimento Estimado
+
+Mesas e cadeiras para 120 lugares (premium upholstered)
+
+$72,000
+
+Cadeiras e banquetas do bar
+
+$8,000
+
+Decoração geral, iluminação e jardim do terraço
+
+$38,000
+
+Balcão de bar (marcenaria/inox customizado)
+
+$18,000
+
+Sinalização, branding visual e parrilla show display
+
+$12,000
+
+
+
+LOUÇAS, TALHERES, COPOS E ROUPARIA
+
+Item
+
+Investimento Estimado
+
+Pratos e peças de serviço (2× conjuntos para 120 lug.)
+
+$21,000
+
+Talheres completos (2,5× para 120 lug.)
+
+$14,000
+
+Cristalaria e copos (2× conjuntos — Riedel ou equiv.)
+
+$16,000
+
+Vasilhas de barro, cast iron e peças de rodízio
+
+$5,500
+
+Rouparia completa (3× conjuntos — toalhas, guardanapos, trilhos)
+
+$9,500
+
+
+
+UTENSÍLIOS, FERRAMENTAS E SMALLWARES
+
+Item
+
+Investimento Estimado
+
+Facas profissionais, tábuas, panelas e utensílios completos
+
+$14,000
+
+Utensílios de parrilla (pinças, termômetros, pincel, etc.)
+
+$3,500
+
+Recipientes, organizadores e armazenagem da cozinha
+
+$4,000
+
+
+
+TECNOLOGIA E SISTEMAS
+
+Item
+
+Investimento Estimado
+
+Sistema POS + KDS (hardware + software + instalação)
+
+$14,000
+
+Reservas online (integração OpenTable/Resy)
+
+$2,500
+
+CFTV, controle de acesso e sistema de som ambiente
+
+$8,000
+
+
+
+PRÉ-OPERACIONAL
+
+Item
+
+Investimento Estimado
+
+Estoque inicial de alimentos e bebidas (pré-abertura)
+
+$32,000
+
+Treinamento de equipe + soft opening (2 semanas)
+
+$10,000
+
+Marketing pré-abertura (mídia social, press kit, evento launch)
+
+$18,000
+
+Consultoria (Chef Jamim Moura — honorários totais do projeto)
+
+A NEGOCIAR
+
+Custos legais, licenças e registros de abertura
+
+$6,000
+
+
+
+SUBTOTAL PRÉ-CONTINGÊNCIA
+
+$645,000
+
+(+) Contingência 10%
+
+$64,500
+
+★ INVESTIMENTO TOTAL ESTIMADO
+
+$709,500
+
+
+
+O investimento total estimado de $709,500 representa o capital necessário para a abertura. A ausência de custo de aquisição de imóvel e de aluguel mensal (operação dentro do hotel próprio) é o principal diferencial competitivo deste modelo financeiro.
+
+Distribuição do CAPEX por Categoria
+
+Categoria
+
+Valor
+
+% do Total
+
+Tipo de Gasto
+
+EQUIPAMENTOS DE COZINHA
+
+$297,000
+
+41.9%
+
+Importado/Especializado
+
+MOBILIÁRIO E DECORAÇÃO
+
+$148,000
+
+20.9%
+
+Importado/Especializado
+
+LOUÇAS, TALHERES, COPOS E ROUPARIA
+
+$66,000
+
+9.3%
+
+Local/Nacional
+
+UTENSÍLIOS, FERRAMENTAS E SMALLWARES
+
+$21,500
+
+3.0%
+
+Local/Nacional
+
+TECNOLOGIA E SISTEMAS
+
+$24,500
+
+3.5%
+
+Local/Nacional
+
+PRÉ-OPERACIONAL
+
+$88,000
+
+12.4%
+
+Local/Nacional
+
+CONTINGÊNCIA (10%)
+
+$64,500
+
+9.1%
+
+Local/Nacional
+
+
+
+
+
+
+SEÇÃO 7  —  ANÁLISE DE ROI E PAYBACK
+
+O Retorno sobre Investimento (ROI) e o tempo de Payback foram calculados para cada combinação de cenário de receita e CMV. O CAPEX considerado é a estimativa de montagem de $709,500.
+
+Payback = Investimento Total ÷ EBITDA Anual  |  ROI Anual = (EBITDA Anual ÷ Investimento) × 100
+
+
+
+Tabela de Payback e ROI por Cenário
+
+
+
+CMV 28%
+
+Payback
+
+CMV 33%
+
+Payback
+
+CMV 40%
+
+Payback
+
+CONSERVADOR
+
+204.5%/ano
+
+5.9 meses
+
+182.5%/ano
+
+6.6 meses
+
+151.7%/ano
+
+7.9 meses
+
+MODERADO
+
+305.6%/ano
+
+3.9 meses
+
+275.6%/ano
+
+4.4 meses
+
+233.7%/ano
+
+5.1 meses
+
+OTIMISTA
+
+376.9%/ano
+
+3.2 meses
+
+341.4%/ano
+
+3.5 meses
+
+291.6%/ano
+
+4.1 meses
+
+
+
+Payback < 18 meses = Excelente  |  18–36 meses = Bom  |  > 36 meses = Atenção
+
+
+
+Ponto de Equilíbrio (Break-Even)
+
+Receita mínima mensal necessária para cobrir todos os custos (CMV + variáveis + fixos) sem lucro:
+
+CMV
+
+Break-Even Mensal
+
+Break-Even Diário
+
+Covers Necessários/Dia
+
+CMV 28% — Meta
+
+$69,528
+
+$2,674
+
+~29 covers/dia
+
+CMV 33% — Moderado
+
+$75,470
+
+$2,903
+
+~32 covers/dia
+
+CMV 40% — Deadline
+
+$85,728
+
+$3,297
+
+~36 covers/dia
+
+
+
+Com 120 lugares operando ~90 covers/dia no Cenário Moderado, o restaurante supera com conforto o break-even em todos os targets de CMV.
+
+
+
+Cenário Recomendado — Meta Operacional Ano 1
+
+KPI
+
+Target Ano 1
+
+Target Ano 2
+
+Target Ano 3+
+
+Receita Mensal
+
+$259,916
+
+$354,044
+
+$420,488
+
+CMV Target
+
+≤ 33%
+
+≤ 30%
+
+≤ 28%
+
+EBITDA Mensal
+
+$107,901
+
+$173,587
+
+$222,860
+
+Margem EBITDA
+
+41.5%
+
+49.0%
+
+53.0%
+
+Payback acumulado
+
+Em construção
+
+Recuperando investimento
+
+Acima do ROI alvo
+
+Covers/dia médio
+
+~65 cov./dia
+
+~90 cov./dia
+
+~110 cov./dia
+
+Ticket médio global
+
+~$88
+
+~$92
+
+~$96
+
+ROI Anual Estimado
+
+182.5%
+
+293.6%
+
+376.9%
+
+
+
+
+
+SEÇÃO 8  —  INDICADORES DE PERFORMANCE — KPIs
+
+Os KPIs a seguir devem ser monitorados semanalmente pelo gerente de restaurante e mensalmente pelo proprietário. São os instrumentos de controle para garantir que a operação se mantenha dentro das metas financeiras estabelecidas.
+
+
+
+KPIs de Receita
+
+KPI
+
+Fórmula
+
+Meta Mensal
+
+Frequência de Monitoramento
+
+Receita Bruta Mensal
+
+Total vendas A&B
+
+$354,044
+
+Diária — fechamento do caixa
+
+Ticket Médio por Cover
+
+Receita ÷ Nº covers servidos
+
+≥ $90 (ponderado)
+
+Por serviço (almoço e jantar)
+
+RevPASH (Receita por Assento por Hora)
+
+Receita ÷ (120 × h operação)
+
+≥ $22/assento/hora
+
+Por turno de serviço
+
+Covers Totais / Mês
+
+Soma covers todos os serviços
+
+≥ 2.340 covers/mês
+
+Semanal
+
+Taxa de Ocupação Média
+
+Covers ÷ 100 × 100%
+
+≥ 65% no geral
+
+Diária
+
+Receita de Bebidas (% total)
+
+Rev. bev ÷ Rev. total
+
+30–40% — equilíbrio saudável
+
+Semanal
+
+
+
+KPIs de Custos
+
+KPI
+
+Fórmula
+
+Meta
+
+Alerta
+
+CMV Total Blended
+
+Custo mercadoria ÷ Receita
+
+≤ 30%
+
+> 35% = revisão imediata
+
+Food Cost Específico
+
+Custo alimentos ÷ Receita alimentos
+
+≤ 33%
+
+> 38% = auditoria de fichas técnicas
+
+Beverage Cost
+
+Custo bebidas ÷ Receita bebidas
+
+≤ 24%
+
+> 28% = revisar mix de bebidas
+
+Labor Cost (folha ÷ receita)
+
+Folha total ÷ Receita
+
+≤ 28%
+
+> 35% = escala superestimada
+
+Custo Total / Cover
+
+Todos custos ÷ covers servidos
+
+≤ $58/cover
+
+> $65 = ineficiência operacional
+
+Prime Cost (CMV + Labor)
+
+CMV% + Labor%
+
+≤ 60%
+
+> 65% = risco de prejuízo
+
+
+
+KPIs de Operação
+
+KPI
+
+Meta
+
+Monitoramento
+
+Por quê é Importante
+
+NPS (Net Promoter Score)
+
+≥ 70
+
+Mensal — pesquisa clientes
+
+Indicador de fidelização e marketing boca a boca
+
+Taxa de retorno de hóspedes
+
+≥ 25% em 90 dias
+
+Trimestral — CRM
+
+Sustentabilidade da receita sem depender apenas de novos clientes
+
+Mesa por rotação (turnover)
+
+1,2× almoço / 1,0× jantar
+
+Por serviço
+
+Impacto direto na receita máxima alcançável
+
+No-show rate (reservas perdidas)
+
+≤ 8%
+
+Semanal
+
+Acima de 8% exige política de depósito caução
+
+Tempo médio da conta
+
+≤ 4 min
+
+Operacional
+
+Agilidade no fechamento impacta no turnover
+
+Reclamações por serviço
+
+≤ 2 por semana
+
+Diária — livro de ocorrências
+
+Qualidade de serviço e produto
+
+Score de higiene / auditoria
+
+≥ 90/100
+
+Quinzenal — checklist interno
+
+Conformidade com normas sanitárias da Guiana
+
+
+
+Dashboard Semanal Sugerido — Chef / Gerente
+
+Métrica
+
+Segunda
+
+Terça a Dom
+
+Quando Agir
+
+Receita da semana vs. meta
+
+Compilar e revisar
+
+Monitorar diariamente
+
+Se > 10% abaixo da meta semanal
+
+CMV semanal estimado
+
+Calcular com inventário
+
+Controle diário de requisições
+
+Se CMV semanal > 35%
+
+Covers da semana
+
+Fechar contagem
+
+Contar por serviço
+
+Se < 300 covers na semana
+
+Desperdício de cozinha (%)
+
+Pesar e registrar
+
+Monitorar fichas técnicas
+
+Se > 3% da receita de alimentos
+
+Top 5 pratos mais vendidos
+
+Analisar mix
+
+Registrar no POS
+
+Ajuste de cardápio se necessário
+
+Estoque de proteínas (dias)
+
+Contagem física
+
+Monitorar FIFO
+
+Se < 2 dias de estoque
+
+
+
+
+
+SEÇÃO 9  —  CONCLUSÕES E RECOMENDAÇÕES
+
+Síntese do Estudo
+
+O AURA Hotel Rooftop Steakhouse apresenta um modelo financeiro robusto e com excelente potencial de retorno. Os principais fatores que sustentam essa conclusão são:
+
+
+
+Fator
+
+Impacto Financeiro
+
+Qualificação
+
+Ausência de aluguel (dentro do hotel próprio)
+
+Economia de $8.000–$15.000/mês vs. operação independente
+
+★★ Diferencial crítico
+
+Conceito híbrido (À La Carte + Rodízio)
+
+Receita de rodízio eleva o ticket médio de fim de semana em ~23%
+
+★★ Multiplicador de receita
+
+Ticket médio alto ($45–$95)
+
+Permite operar com margens saudáveis mesmo em CMV 33%
+
+★★ Posicionamento premium
+
+Operação 6 dias/semana, 2 turnos
+
+Maximiza a utilização do espaço e dos ativos fixos
+
+★ Eficiência operacional
+
+Localização Georgetown com fluxo de hóspedes do hotel
+
+Base garantida de clientes cativos para o almoço e happy hour
+
+★ Vantagem estrutural
+
+Conexão logística Miami–Georgetown
+
+Acesso a fornecedores premium de carnes e bebidas nos EUA
+
+★ Qualidade do cardápio
+
+
+
+
+
+Síntese Financeira — Cenário Recomendado
+
+Indicador
+
+Valor
+
+Cenário Base
+
+Investimento de Montagem (CAPEX)
+
+$709,500
+
+Estimativa total com contingência 10%
+
+Receita Mensal (Moderado)
+
+$354,044
+
+Ano 2 — consolidação
+
+Receita Anual (Moderado)
+
+$4,248,528
+
+Projeção estabilizada
+
+EBITDA Mensal @ CMV 28%
+
+$180,668
+
+51.0% de margem — EXCELENTE
+
+EBITDA Mensal @ CMV 33%
+
+$162,966
+
+46.0% de margem — NA META
+
+EBITDA Anual @ CMV 28%
+
+$2,168,015
+
+Ano 2 — meta de excelência
+
+EBITDA Anual @ CMV 33%
+
+$1,955,589
+
+Ano 2 — operação saudável
+
+Payback @ CMV 28% (Moderado)
+
+3.9 meses
+
+Excelente para o segmento
+
+Payback @ CMV 33% (Moderado)
+
+4.4 meses
+
+Bom para o segmento
+
+Break-Even Mensal @ CMV 33%
+
+$75,470
+
+~1020 covers/dia necessários
+
+
+
+
+
+Recomendações Prioritárias
+
+Prioridade
+
+Recomendação
+
+Impacto no Resultado
+
+P1
+
+Implementar fichas técnicas com gramatura exata para TODOS os pratos antes da abertura — especialmente proteínas
+
+Redução de 3–5% no food cost = $6.000–$11.000/mês de impacto positivo
+
+P1
+
+Negociar contratos anuais de fornecimento com (Allen Brothers e Creekstone) antes da abertura
+
+Redução de 2–4% no custo de proteínas — maior componente do CMV
+
+P1
+
+Monitorar o CMV semanalmente — não mensalmente — para detecção precoce de desvios
+
+Desvio de 1% no CMV = $2.234/mês de impacto em cenário Moderado
+
+P2
+
+Maximizar o programa de bebidas da casa (caipirinhas, vinho da casa, cervejas artesanais)
+
+Beverave cost baixo (20–22%) com ticket alto — alavancagem de margem
+
+P2
+
+Implementar o rodízio nos fins de semana desde a abertura — não esperar consolidação
+
+Ticket de fim de semana $120 vs. $98 dia útil — +23% de receita por cover
+
+P2
+
+Treinar equipe em upselling de bebidas, sobremesas e cortes premium
+
+Aumento de 10% no ticket médio = +$34.000/mês no Cenário Moderado
+
+P3
+
+Revisar o cardápio trimestralmente com base nos dados de vendas do POS
+
+Eliminar itens de baixa margem e alto custo — menu engineering contínuo
+
+P3
+
+Estabelecer meta de NPS ≥ 70 para sustentar ocupação crescente
+
+Crescimento orgânico via indicação — reduz custo de marketing
+
+
+
+
+
+AURA HOTEL ROOFTOP STEAKHOUSE
+
+Estudo Financeiro — Estimativa de Faturamento, Custos e ROI
+
+Elaborado pelo Chef Jamim Moura Santos •  Georgetown, Guiana  •  2025
+
+◈  CONFIDENCIAL  ◈
+
+Georgetown, Guiana  •  2025  •  Documento Confidencial  •  Uso exclusivo do proprietário
+
+--- AURA_Plano_Mestre_Operacional_PT_v2.docx ---
+AURA Hotel Rooftop Steakhouse  •  Plano Mestre Operacional  •  Chef Jamim Santos
+
+
+
+
+
+
+
+
+
+◈
+
+AURA HOTEL
+
+ROOFTOP STEAKHOUSE
+
+— PARRILLA ARGENTINA · CHURRASCO BRASILEIRO —
+
+PLANO MESTRE OPERACIONAL DO RESTAURANTE
+
+Conceito Híbrido — 120 Lugares
+
+
+
+
+
+Georgetown, Guiana  •  2026
+
+
+
+
+
+Elaborado por
+
+Chef Jamim Santos
+
+Consultor de Cozinha e Restaurante
+
+
+
+Preparado para
+
+Sr. Sérgio Matos
+
+AURA Hotel — Proprietário do Projeto
+
+
+
+
+RESUMO EXECUTIVO
+
+Este documento constitui o Plano Mestre Operacional do AURA Hotel Rooftop Steakhouse, Georgetown, Guiana. Foi elaborado pelo Chef Consultor Jamim Moura Santos como entrega da consultoria pré-abertura, comissionada pelo proprietário do projeto, Sr. Sérgio Matos.
+
+O AURA Rooftop Steakhouse opera sobre um modelo de serviço de modo duplo, baseado em uma parrilla híbrida que combina a tradição da grelha argentina a lenha/carvão com os espetos rotativos do churrasco brasileiro. Todo o planejamento de quantidades e logística está calibrado para 120 lugares.
+
+
+
+
+
+
+O Conceito Híbrido
+
+Modo
+
+Descrição
+
+Quando Ativar
+
+MODO A — À La Carte
+
+Cardápio internacional clássico: parrilla, massas, risotos, frutos do mar — servidos individualmente como experiência premium de fine dining
+
+Padrão dias de semana e eventos reservados
+
+MODO B — Rodízio Parrilla
+
+Serviço de espeto rotativo com apresentação teatral à mesa, cortes de parrilla e churrasco, acompanhamentos estilo família em travessas e cumbucas rústicas
+
+Noites de fim de semana, eventos, grupos acima de 30 pessoas
+
+
+
+Seções do Documento
+
+Nº
+
+Seção
+
+Conteúdo Principal
+
+1
+
+Conceito Híbrido e Cardápio Completo
+
+Cardápio à la carte bilíngue com preços de referência
+
+2
+
+Serviço de Rodízio Parrilla
+
+Prix fixe, rotação de espetos, acompanhamentos, bar
+
+3
+
+Inventário de Utensílios de Cozinha
+
+Lista completa para 120 lugares + sistema de espeto
+
+4
+
+Equipamentos de Bar
+
+Bar completo + programa de caipirinha e cervejas artesanais
+
+5
+
+Serviço de Mesa
+
+Louças, talheres, copos, travessas de barro (Modo A e B)
+
+6
+
+Padrões de Serviço de Mesa
+
+Protocolos de serviço para ambos os modos
+
+7
+
+Logística Vertical
+
+Fluxo entre andares, elevador, áreas de suporte
+
+8
+
+Mapa Operacional do Hotel
+
+Estrutura departamental e fluxos
+
+9
+
+POPs de Cozinha
+
+Procedimentos operacionais padrão + operação de espeto
+
+10
+
+Cronograma de Manutenção
+
+Manutenção diária, semanal e mensal
+
+11
+
+Fornecedores Recomendados
+
+EUA/Miami, Brasil, Europa
+
+
+
+
+
+
+
+
+
+
+
+SEÇÃO 1  —  CONCEITO HÍBRIDO E CARDÁPIO COMPLETO
+
+O cardápio do AURA Rooftop Steakhouse é estruturado como uma experiência à la carte premium, enraizada na tradição da parrilla argentina com influências do churrasco brasileiro e preparos clássicos internacionais. Projetado para 120 lugares, o cardápio deve fluir com eficiência mesmo nos picos de serviço.
+
+
+
+Infraestrutura da Parrilla Híbrida
+
+Componente
+
+Descrição
+
+Modo
+
+Grelha Parrilla Argentina
+
+Grelha a lenha/carvão com grelhas reguláveis em V (V-grates) e gaveta de cinzas — visível da sala de jantar como elemento teatral
+
+Modo A + B
+
+Sistema de Espeto Rotativo
+
+Montagem motorizada com capacidade para 30-40 espetos simultâneos, velocidade variável, motor 110/220V
+
+Modo B (Rodízio)
+
+Gestão de Carvão e Lenha
+
+Estação de iniciador de carvão + carvão de madeira dura e/ou lenha — estoque no térreo, transporte diário pelo elevador de serviço
+
+Modo A + B
+
+Janela da Parrilla (Show)
+
+Parrilla visível da sala de jantar — elemento central da identidade visual do restaurante
+
+Modo A + B
+
+Tempo de Transição entre Modos
+
+Aproximadamente 20 minutos para reconfiguração da cozinha entre Modo A e Modo B
+
+Decisão da gestão
+
+
+
+
+
+Cardápio À La Carte Completo
+
+Preços em USD — referência sugerida. Preço final a ser definido pela gestão conforme análise de custos local.
+
+
+
+ENTRADAS
+
+Steak Tartare
+
+Carne cortada à mão, gema de codorna, alcaparras, pepino, mostarda Dijon — brioche tostado
+
+$22
+
+Ostras no Gelo
+
+6 ou 12 peças servidas sobre gelo picado, molho mignonette e cocktail, limão siciliano
+
+$26 / $48
+
+Camarão Cocktail
+
+Camarão jumbo gelado sobre gelo picado, molho cocktail da casa, limão
+
+$22
+
+Burrata
+
+Burrata fresca, tomates heirloom, azeite de manjericão, flor de sal, presunto cru italiano
+
+$22
+
+Tutano Assado
+
+Tutano assado na parrilla, chimichurri, salada de salsinha, pão sourdough grelhado
+
+$26
+
+Crab Cakes
+
+Bolinhos de caranguejo salteados na frigideira, molho remoulade, micro-greens
+
+$28
+
+Empanadas de Carne (3 un.)
+
+Empanadas argentinas crocantes recheadas com carne temperada, chimichurri clásico
+
+$14
+
+Provoleta
+
+Queijo provolone grelhado diretamente na parrilla, orégano, pimenta calabresa, azeite extra virgem e geléias acomp com torradas temperadas
+
+$15
+
+Espinafre Gratinado
+
+Espinafre cremoso assado no forno, crosta de parmesão, crostini tostados
+
+$14
+
+Batata Recheada (jack potato)
+
+Batata assadas, recheada na cavidade com purê da batata, requeijão de qualidade, bacon em farofa, cheddar derretido, creme azedo, cebolinha verde
+
+$13
+
+SOPAS E SALADAS
+
+Caldo de feijão
+
+Clássico caldinho de feijão com paio e bacon
+
+$14
+
+Wedge Salad
+
+Alface iceberg, molho de gorgonzola, bacon crocante, tomates cereja, cebola roxa
+
+$15
+
+Salada Caesar
+
+Alface romana levemente grelhadas na parrilha, molho Caesar da casa, parmesão curado, croutons artesanais
+
+$14
+
+Salada Chimichurri
+
+Folhas mistas, tomates cereja, pimentões assados, vinagrete de chimichurri fresco
+
+$13
+
+A PARRILLA — A GRELHA
+
+Ribeye  |  350g
+
+Grelhado no carvão, descansado mínimo 3 min, servido em frigideira de ferro ou tábua — acompanha molho à escolha
+
+$58
+
+T-Bone  |  500g
+
+T-bone clássico com osso, grelhado na parrilla — servido na tábua de madeira com pinça e faca de trinchar
+
+$72
+
+NY Strip  |  300g
+
+Contra-filé estilo Nova Iorque, finalizado na frigideira de ferro fundido com manteiga e alecrim
+
+$58
+
+Picanha  |  300g
+
+Picanha brasileira com capa de gordura, sal grosso, grelhada na parrilla — chimichurri à parte
+
+$54
+
+Costela  |  400g
+
+Costela cozida lentamente por 24h, finalizada na parrilla para caramelizar a crosta — farofa e chimichurri
+
+$62
+
+Frango na Parrilla  |  Meio
+
+Meio frango marinado com limão siciliano e ervas frescas, grelhado inteiro na parrilla
+
+$36
+
+Costeletas de Cordeiro (2 un.)
+
+Costeletas francesas, crosta de ervas, chimichurri de hortelã
+
+$68
+
+Peixe Inteiro Grelhado
+
+Peixe do dia ao limão e ervas na parrilla — consulte o garçom
+
+Mercado
+
+Panceta suína pururucada  | 500g
+
+Ripas de pancetas pururuca, ao molho de goiabada e chimichurri
+
+
+
+		
+
+CLÁSSICOS INTERNACIONAIS
+
+Risoto de Cogumelos
+
+Arroz arborio, mix de cogumelos silvestres, óleo de trufa, parmesão curado 24 meses, cebolinha
+
+$28
+
+Bife com Risoto
+
+Tiras de NY Strip sobre risoto de cogumelos, demi-glace de tutano
+
+$48
+
+Tagliatelle al Ragù
+
+Massa fresca artesanal, ragù de carne cozida lentamente no vinho, grana padano
+
+$30
+
+Pappardelle com Filé
+
+Pappardelle, filé mignon fatiado, tomates cereja, pimentões assados, manteiga de alho
+
+$48
+
+Camarão ao Alho
+
+Camarão jumbo, manteiga de alho, vinho branco, ervas frescas, pão sourdough grelhado
+
+$42
+
+Salmão Salteado
+
+Salmão do Atlântico, manteiga de limão siciliano e alcaparra, aspargos grelhados
+
+$44
+
+ACOMPANHAMENTOS
+
+Purê de Batata
+
+Batata, manteiga, creme de leite, parmesão curado — textura aveludada
+
+$9
+
+Espinafre Cremoso
+
+Espinafre refogado, creme de leite, noz-moscada, parmesão
+
+$9
+
+Legumes Grelhados
+
+Legumes da estação grelhados na parrilla, azeite extra virgem, ervas frescas
+
+$9
+
+Batata Frita
+
+Dupla fritura para máxima crocância, flor de sal, tempero da casa
+
+$8
+
+Farofa de Bacon
+
+Farinha de mandioca tostada, bacon crocante, cebola caramelizada, ervas — clássico brasileiro
+
+$7
+
+Arroz Chimichurri
+
+Arroz ao alho, blend de chimichurri, ervas frescas
+
+$8
+
+Milho Grelhado na Parrilla
+
+Espiga de milho grelhada na brasa, manteiga de ervas, queijo cotija
+
+$7
+
+Mac & Cheese
+
+Macarrão em Gouda defumado da casa, cheddar afiado, crosta de farinha de rosca crocante
+
+$10
+
+MOLHOS — Para qualquer corte (adicional)
+
+Chimichurri Clássico
+
+Salsinha, cebola roxa, alho, orégano, pimenta calabresa, azeite, vinagre — receita da casa
+
+$4
+
+Chimichurri Verde
+
+Coentro, jalapeño, limão verde — versão mais fresca e cítrica
+
+$4
+
+Salsa Criolla
+
+Relish fresco de tomate, cebola roxa e pimentão — estilo argentino
+
+$4
+
+Molho ao Pimenta Verde
+
+Pimenta verde em grão, creme de leite, brandy — clássico francês
+
+$5
+
+Vinagrete campanha
+
+Tomates, cebola roxa, coentre, pimenta preta, vinagre e azeite.
+
+$5
+
+Jus de Vinho Tinto
+
+Redução de vinho tinto da casa com tutano e ervas — pour à mesa
+
+$5
+
+SOBREMESAS
+
+Crème Brûlée
+
+Baunilha clássica — caramelizado com maçarico à mesa pelo garçom, fruta da estação
+
+$14
+
+Panqueca comdoce de leite na parrilla
+
+Panquecas recheadas com doce de leite com camada de açucar vitrificada e queimada no ferro em brasa, servido com uma bola de sorvete ou chantilly de creamcheese.
+
+$15
+
+Cheesecake
+
+Estilo Nova Iorque, compota de frutas vermelhas, base de biscoito graham
+
+$12
+
+Pudim de Leite
+
+Pudim sedoso com calda de caramelo e chantilly — influência brasileira
+
+$11
+
+Tábua de Queijos (3 tipos)
+
+Seleção de 3 queijos artesanais, mel, castanhas, geleia e crackers
+
+$22
+
+
+
+
+
+
+SEÇÃO 2  —  SERVIÇO DE RODÍZIO PARRILLA
+
+Quando opera no Modo B (Rodízio), o restaurante transita para um serviço completo de espeto rotativo à beira da mesa, inspirado na churrascaria brasileira combinada com os cortes da parrilla argentina. Com capacidade para 120 lugares, o ritmo do rodízio deve ser gerenciado com precisão para que nenhuma mesa espere mais de 8 minutos entre cortes.
+
+
+
+Estrutura Prix Fixe do Rodízio
+
+Nível
+
+O que Inclui
+
+Preço Sugerido
+
+RODÍZIO CLÁSSICO
+
+Cortes ilimitados do espeto rotativo + todos os acompanhamentos no centro da mesa (estilo família) + pão de alho + bar de chimichurri com reposição contínua
+
+$85 por pessoa
+
+RODÍZIO PREMIUM
+
+Tudo no Clásico + cortes premium da parrilla (Ribeye, Costela, Cordeiro) + tutano assado servido à mesa + harmonização de vinhos pelo sommelier
+
+$115 por pessoa
+
+CRIANÇAS (até 12 anos)
+
+Meia porção — metade do preço do nível contratado
+
+$42 / $57
+
+
+
+Rotação de Proteínas do Espeto
+
+Os cortes são servidos na seguinte ordem, ciclando continuamente durante todo o serviço:
+
+Rodada
+
+Corte
+
+Preparo
+
+Ponto Servido
+
+1ª
+
+Linguiça Artesanal
+
+Grelhada na parrilla, fatiada à mesa
+
+Bem passada
+
+2ª
+
+Frango — Coxas
+
+Coxas inteiras no espeto, marinadas com limão e ervas
+
+Bem passado
+
+3ª
+
+Picanha Fatiada
+
+Capa de gordura, sal grosso, espeto rotativo — corte por corte
+
+Ao ponto / Mal passado
+
+4ª
+
+Costela
+
+Cozida por 24h, finalizada e caramelizada na parrilla
+
+Caindo do osso
+
+5ª
+
+Fraldinha
+
+Fatiada fina na parrilla, alho e ervas frescas
+
+Ao ponto
+
+6ª
+
+Coração de Frango
+
+Espeto clássico do churrasco brasileiro, temperado com alho e limão
+
+Bem passado
+
+7ª
+
+Ribeye (Premium)
+
+Grelhado inteiro no carvão, trinchado à mesa pelo capitão
+
+Ao ponto / Mal passado
+
+8ª
+
+Cordeiro (Premium)
+
+Paleta no espeto com crosta de ervas, chimichurri de hortelã
+
+Ao ponto
+
+Repete
+
+Ciclo reinicia conforme demanda da mesa
+
+—
+
+—
+
+
+
+Acompanhamentos Estilo Família (Modo B)
+
+Todos os acompanhamentos servidos em travessas de barro posicionadas no centro da mesa — repostos imediatamente mediante solicitação:
+
+Acompanhamento
+
+Recipiente
+
+Observações de Serviço
+
+Farofa de Bacon
+
+Tigela de barro 15cm
+
+Reposta continuamente — essencial no rodízio
+
+Arroz Branco ou Chimichurri
+
+Tigela de barro 20cm
+
+Arroz branco simples ou versão com chimichurri
+
+Feijão Preto
+
+Panelinha de barro 500ml
+
+Cozido lentamente estilo brasileiro, com temperos da casa
+
+Vinagrete
+
+Ramekin de barro 10cm
+
+Tomate, cebola roxa, pimentão, vinagre, azeite — fresco
+
+Chimichurri Clásico
+
+Ramekin de barro 10cm
+
+Reposto à mesa a cada rodada — sempre fresco
+
+Pão de Alho
+
+Cestinha com guardanapo de pano
+
+Quente, assado em ondas — reposto a cada rodada
+
+Mandioca Frita
+
+Tigela de barro 20cm
+
+Clássico brasileiro — aipim crocante e dourado
+
+Legumes Grelhados
+
+Travessa oval de barro 20cm
+
+Legumes da estação grelhados na parrilla
+
+Purê de Batata
+
+Tigela de barro 15cm
+
+Disponível sob solicitação
+
+Milho Grelhado na Brasa
+
+Diretamente na cestinha
+
+Meias espigas com manteiga de ervas
+
+
+
+Programa de Bar — Sugestões de Coquetéis Assinatura
+
+Coquetel
+
+Descrição
+
+Base
+
+AURA Smoked Old Fashioned
+
+Bourbon, demerara, Angostura bitters — servido com domo de fumaça de macieira aberto à mesa
+
+Bourbon
+
+Negroni da Parrilla
+
+Negroni de mezcal com bitters de mole defumado — o coquetel do fogo
+
+Mezcal
+
+Caipirinha Clássica
+
+A tradicional brasileira — cachaça, limão tahiti, açúcar, gelo picado
+
+Cachaça
+
+Caipirinha de Maracujá
+
+Cachaça, maracujá fresco, limão, açúcar — tropical e refrescante
+
+Cachaça
+
+Malbec Sour Argentino
+
+Malbec argentino, limão siciliano, clara de ovo, bitters — espumoso
+
+Vinho Malbec
+
+Chimichurri Mary
+
+Bloody Mary com blend de chimichurri verde, aipo, jerky de carne como guarnição
+
+Vodka
+
+Rooftop Spritz
+
+Prosecco, Aperol, laranja sanguínea, ervas frescas — para o pôr do sol
+
+Prosecco
+
+Sem Álcool: Fire & Spice
+
+Cerveja de gengibre, maracujá, jalapeño, limão verde, hortelã
+
+Sem álcool
+
+
+
+
+
+
+SEÇÃO 3  —  INVENTÁRIO DE UTENSÍLIOS DE COZINHA
+
+Inventário completo de utensílios para operação de 120 lugares. Quantidades calculadas com base no pico de serviço (turnover de 100%), buffer de reposição e mise en place simultânea de todas as estações. Itens específicos do sistema de espeto marcados com ★.
+
+
+
+Item
+
+Qtd
+
+Especificação
+
+Modo
+
+FACAS E AFIAÇÃO
+
+
+
+
+
+
+
+Faca de Chef 25cm
+
+8
+
+Aço carbono, espiga total — mínimo 1 por estação
+
+A + B
+
+Faca Desossadora
+
+6
+
+Lâmina flexível 15cm — para butchery e preparo de proteínas
+
+A + B
+
+Faca de Trinchar 30cm
+
+4
+
+Para serviço e trinchar à mesa — apresentação
+
+A + B
+
+Faca de Pão
+
+4
+
+Serrilhada 25cm — para pão de alho e sourdough
+
+A + B
+
+Faca de Legumes
+
+8
+
+9cm — para prep fina e guarnições
+
+A + B
+
+Facão de Açougue 25cm
+
+4
+
+Pesado — para butchery e cortes grandes
+
+A + B
+
+Facas de Bife (tableside)
+
+144
+
+Serrilhadas, qualidade de apresentação — 1.2x capacidade da casa
+
+A + B
+
+Chaira 40cm+pedra esmeril 1000/2000
+
+4
+
+Profissional — afiação rápida durante o serviço
+
+A + B
+
+Suporte Magnético de Facas
+
+4
+
+Montado na parede, 45cm
+
+A + B
+
+PARRILLA E SISTEMA DE ESPETO
+
+
+
+
+
+
+
+★ Espeto Rotativo Motorizado
+
+1 sistema
+
+Capacidade 4–6 espetos simultâneos, velocidade variável, motor 110/220V
+
+B
+
+★ Espetos de Reposição (Inox 80cm)
+
+40
+
+Ponta afiada, inox alimentar — 2x capacidade do motor
+
+B
+
+★ Suporte de Descanso de Espeto
+
+4
+
+Suporte de bancada para espetos em espera — em aço inox
+
+B
+
+★ Liquidificador Dedicado Chimichurri
+
+2
+
+Exclusivo para preparo de chimichurri — nunca usar para outros fins
+
+A + B
+
+★ Machado para Lenha
+
+1
+
+Para rachar lenha dura se usar wood splits na parrilla
+
+A + B
+
+★ Pá e rastelo para brasa de 80 cm
+
+2 de cada
+
+Manutenção e movimentação das brasas
+
+A + B
+
+Pinça para Parrilla 45cm
+
+8
+
+Inox pesado, para manejo direto no fogo
+
+A + B
+
+Escova de Grelha
+
+4
+
+Cerdas de latão — limpeza das grelhas quentes
+
+A + B
+
+Iniciador de Carvão
+
+4
+
+Alta capacidade — acender carvão sem líquido inflamável
+
+A + B
+
+Balde de Cinzas
+
+4
+
+Metal resistente ao calor — esvaziado após cada serviço
+
+A + B
+
+Luvas de Parrilla
+
+6 pares
+
+Silicone, suporte até 260°C
+
+A + B
+
+Termômetro Digital
+
+4
+
+Leitura instantânea — 1 por estação de grelha + 2 reservas
+
+A + B
+
+Termômetro Infravermelho
+
+2
+
+Sem contato, range até 537°C — para temperatura da grelha
+
+A + B
+
+★ EQUIPAMENTOS DE SERVIÇO RODÍZIO
+
+
+
+
+
+
+
+★ Tigela de Barro Grande (20cm)
+
+48
+
+Esmalte alimentar aprovado — para farofa, arroz, feijão, legumes
+
+B
+
+★ Tigela de Barro Média (15cm)
+
+48
+
+Para vinagrete, salsa criolla, acompanhamentos menores
+
+B
+
+★ Ramekin de Barro (10cm)
+
+72
+
+Para chimichurri e molhos — reposto continuamente à mesa
+
+B
+
+★ Chapa de Ferro Retangular 30x20cm
+
+20
+
+Para serviço de carnes quentes diretamente na mesa
+
+B
+
+★ Tábua com Cabo de Madeira
+
+20
+
+Acácia 40x25cm — para trinchar cortes à mesa no rodízio
+
+A + B
+
+★ Garfo Trinchante Longo
+
+12
+
+Cabo longo para segurar e fatiar proteínas diretamente do espeto
+
+B
+
+PANELAS, CUBAS E ASSADEIRAS
+
+
+
+
+
+
+
+Frigideira de Ferro Fundido 30cm
+
+8
+
+Pré-temperada — para finalização de bifes e serviço à mesa
+
+A + B
+
+Frigideira de Inox 25cm (tri-ply)
+
+8
+
+Tripla camada — para molhos e salteados
+
+A + B
+
+Caçarola Inox 2L
+
+6
+
+Para molhos, reduções e pequenas preparações
+
+A + B
+
+Caçarola Inox 4L
+
+4
+
+Para sopas e guarnições em volume
+
+A + B
+
+Panela de Fundo 20L
+
+4
+
+Para caldos, fundos e feijão do rodízio
+
+A + B
+
+Panela de pressão 15L
+
+2
+
+Para feijão (grãos), macaxeira, e carnes de longo preparo acelerado.
+
+A + B
+
+Assadeira Média 45x33cm
+
+16
+
+Anti-deformação — uso diário intenso
+
+A + B
+
+Assadeira Grande 60x40cm
+
+8
+
+Para volumes maiores e assar
+
+A + B
+
+MEDIÇÃO, PREPARO E ARMAZENAMENTO
+
+
+
+
+
+
+
+Balança Digital 5kg (precisão 1g)
+
+4
+
+1 por estação de preparo principal
+
+A + B
+
+Balança digital 20kg (carnes e farinhas)
+
+2
+
+Fracionamento de carnes e panificação.
+
+A + B
+
+Batedor Inox 30cm
+
+6
+
+Para molhos, cremes e emulsões
+
+A + B
+
+Concha Inox 180ml
+
+8
+
+Cabo longo — para caldos e molhos
+
+A + B
+
+Concha Inox 60ml
+
+6
+
+Para molhos de porção individual
+
+A + B
+
+Espátula Inox Angular 25cm
+
+8
+
+Para manusear e finalizar preparações
+
+A + B
+
+Escumadeira de Malha Fina
+
+4
+
+Para frituras e escorrer
+
+A + B
+
+Pinça de Cozinha 30cm
+
+12
+
+Mola — essencial em todas as estações de serviço
+
+A + B
+
+Bisnagas 350ml
+
+16
+
+Para molhos de serviço rápido durante o expediente
+
+A + B
+
+Recipientes Policarbonato GN com tampa
+
+jogo completo
+
+Para armazenamento refrigerado de toda a mise en place
+
+A + B
+
+Copos Medidores Inox (jogo 4 pç)
+
+4 jogos
+
+Para receitas e preparações padronizadas
+
+A + B
+
+Colheres Medidoras Inox (jogo 7 pç)
+
+4 jogos
+
+Para especiarias e temperos
+
+A + B
+
+
+
+
+
+
+
+
+
+CANOPY GRILL — Quadro de Acessórios GN · Rational iCombi Pro 10-1/1 + 6-1/1
+
+Seleção de acessórios gastronorm por praça e aplicação  ·  Baseado no cardápio e quadro de necessidades do AURA Rooftop Steakhouse
+
+ 
+
+ACESSÓRIO GN
+
+TIPO / REF. RATIONAL
+
+TAMANHO GN
+
+PROFUNDIDADE
+
+FORNO
+(10GN)
+
+FORNO
+(6GN+Smoker)
+
+APLICAÇÕES PRINCIPAIS
+
+PRATOS DO CARDÁPIO
+(AURA / CANOPY GRILL)
+
+PRAÇA
+
+QTD REC.
+(10 GN)
+
+QTD REC.
+(6 GN)
+
+MODO
+iCOOKING
+
+OBSERVAÇÕES
+
+── GRELHAR E SELAR ──
+
+Placa Grill / Roasting
+
+Grilling & Roasting Plate Ref. 60.70.362 (TriLax)
+
+GN 1/1
+
+20 mm
+
+✓ Principal
+
+✓ Secundário
+
+Grelhar carnes com marcas de grelha · selar lombos · frango · peixes · vegetais grelhados
+
+Picanha grelhada · Frango piri-piri · Salmão · Espinafre grelhado · Abobrinha ao azeite
+
+Linha Quente
+
+2
+
+2
+
+Grelhar / Assar
+
+Lado grelha: marcas tradicionais. Lado frigideira: borda perimetral para selar. TriLax antiadesivo até 300°C.
+
+Placa Grill / Roasting
+
+Grilling & Roasting Plate
+Ref. 60.70.361 (Inox)
+
+GN 1/2
+
+20 mm
+
+✓ Complementar
+
+✓ Principal
+
+Grelhar porções individuais · mise en place à la carte · peixes e mariscos
+
+Cação grelhado · Camarão sauté · Legumes grelhados do dia
+
+Linha Quente
+
+2
+
+2
+
+Grelhar
+
+Ideal para à la carte — porções menores e mais rápidas. Cabe 2 por nível no 10GN.
+
+Placa de Contato / Griddle
+
+Contact grill plate
+Ref. 60.70.180 (TriLax)
+
+GN 1/1
+
+25 mm
+
+✓ Opcional
+
+✓ Defumação
+
+Selar com calor direto superior e inferior · peixe defumado · tutano ao forno
+
+Tutano defumado · Salmão com crosta · Ovo benedito sellado
+
+6GN + Smoker
+
+2
+
+3
+
+Grelhar Combinado
+
+Superfície rayée para calor intenso. Ideal no 6GN com VarioSmoker para defumação simultânea.
+
+── FRITAR, ASSAR E CONVECÇÃO ──
+
+Assadeira Alta (inox lisa)
+
+Roasting & Baking Tray
+Ref. 60.70.391 (TriLax 60mm)
+
+GN 1/1
+
+60 mm
+
+✓ Principal
+
+✓ Principal
+
+Assar proteínas inteiras · costela baixa temperatura · pernil · frango inteiro · cordeiro
+
+Costela 24h sous vide → finalização · Pernil de cordeiro · Porchetta · Frango ao forno
+
+Linha Quente
+
+6
+
+4
+
+Assar / Combi
+
+Cantos totalmente formados — porções iguais. Excelente condução de calor. Ideal para banho-maria de proteínas.
+
+Assadeira Média (inox lisa)
+
+Roasting & Baking Tray
+Ref. 60.70.390 (TriLax 40mm)
+
+GN 1/1
+
+40 mm
+
+✓ Polivalente
+
+✓ Polivalente
+
+Assar vegetais · batatas rústicas · legumes ao forno · finalização de pratos
+
+Batata assada · Abóbora caramelizada · Pimentão recheado · Legumes da época
+
+Garde Manger / Linha Quente
+
+6
+
+4
+
+Assar / Vapor+Conv.
+
+Profundidade intermediária — versátil para vegetais e preparações secundárias.
+
+Forma Perfurada (alumínio)
+
+Perforated Pan TriLax
+Ref. 60.70.215
+
+GN 1/1
+
+20 mm
+
+✓ Confeitaria
+
+✓ Confeitaria / Defumação
+
+Assar pães artesanais · biscoitos · bases de torta · crosta de peixe defumado
+
+Pão artesanal da casa · Biscoito de queijo · Base de cheesecake
+
+Confeitaria / Padaria
+
+4
+
+3
+
+Assar
+
+Circulação de ar ideal para pães. No 6GN com VarioSmoker: defumação de pão artesanal.
+
+GN Sólido Raso (inox)
+
+Solid GN 1/1 — 20mm
+Ref. padrão
+
+GN 1/1
+
+20 mm
+
+✓ Padrão
+
+✓ Padrão
+
+Bandeja multipropósito · mise en place aquecida · molhos e reduções · ovo frito no forno
+
+Ovo frito no forno · Mise en place aquecida de guarnições · Molho Béarnaise base
+
+Todas as praças
+
+6
+
+4
+
+Todos os modos
+
+GN padrão do forno — incluso no equipamento. Uso geral em todos os níveis.
+
+── VAPOR, CALDO E COZIMENTO ÚMIDO ──
+
+GN Perfurado (inox)
+
+Perforated GN 1/1 — 40mm
+Ref. 60.70.155
+
+GN 1/1
+
+40 mm
+
+✓ Principal
+
+✓ Principal
+
+Cozer vegetais a vapor · branquear · escorrer massas · cozer peixes delicados · arroz no vapor
+
+Arroz branco cozido · Brócolis branqueado · Feijão-verde · Espargos ao vapor · Peixe pochê
+
+Linha Quente / Garde Manger
+
+4
+
+4
+
+Vapor (30–130°C)
+
+Perfurações permitem circulação de vapor perfeita. Combinar com GN sólido abaixo para coletar líquidos.
+
+GN Perfurado Fino (inox)
+
+Fine Perf. GN 1/1 — 20mm
+Ref. 60.70.152
+
+GN 1/1
+
+20 mm
+
+✓ Complementar
+
+✓ Complementar
+
+Cozer frutos do mar delicados · moluscos · ovos pochê em volume · frutas cozidas
+
+Mexilhão no vapor · Ostra aquecida · Ovo a 63°C · Pera cozida ao vinho · Manga caramelizada
+
+Garde Manger / Sobremesa
+
+4
+
+3
+
+Vapor suave (63–100°C)
+
+Furos menores protegem ingredientes delicados. Ideal para ovo a 63°C (Sous Vide no forno).
+
+GN Alto para Caldos (inox)
+
+Solid GN 1/1 — 150mm
+Ref. 60.70.175
+
+GN 1/1
+
+150 mm
+
+✓ Caldos
+
+✗ Não encaixa
+
+Fazer fundos e caldos · sopas em volume · braised short rib · feijão · lentilha
+
+Fundo de carne (base molhos) · Sopa de Cebola Gratinada · Feijão preto · Short rib braseado
+
+Linha Quente
+
+6
+
+0
+
+Combi Vapor+Conv.
+
+Profundidade 150mm cabe apenas no 10GN. Produção de caldos e braseados em volume para serviço.
+
+GN 1/2 Perfurado
+
+Perforated GN 1/2 — 40mm
+Ref. 60.70.255
+
+GN 1/2
+
+40 mm
+
+✓ Flexível
+
+✓ Flexível
+
+Cozer porções individuais a vapor · mise en place de guarnições · vegetais pour la carte
+
+Minibatata ao vapor · Aspargo individual · Farofa úmida · Banana da terra cozida
+
+Garde Manger / Linha Quente
+
+5
+
+5
+
+Vapor
+
+2 por nível = maior flexibilidade no iProductionManager para cargas mistas.
+
+── ARROZ, GRÃOS E AMIDOS ──
+
+GN Sólido 65mm — Arroz
+
+Solid GN 1/1 — 65mm
+Ref. 60.70.165
+
+GN 1/1
+
+150mm
+
+✓ Arroz / Pilaf
+
+✓ Arroz / Pilaf
+
+Arroz branco · arroz pilaf · arroz de açafrão · farofa úmida · polenta cremosa
+
+Arroz branco (guarnição) · Arroz pilaf de ervas · Polenta cremosa com gorgonzola
+
+Linha Quente
+
+4
+
+2
+
+Combi / Vapor
+
+Profundidade ideal para arroz: 2 xícaras de arroz + 4 de água → perfeito a 120°C vapor 18min.
+
+GN 1/3 Sólido — Mise en Place
+
+Solid GN 1/3 — 65mm
+Ref. padrão
+
+GN 1/3
+
+100 mm
+
+✓ Mise en Place
+
+✓ Mise en Place
+
+Aquecimento de guarnições individuais · mise en place de serviço · manteigas compostas
+
+Manteiga de ervas aquecida · Purê individual · Farofinha · Flambé mise en place
+
+Serviço (Passe)
+
+10
+
+6
+
+Regeneração (60–80°C)
+
+3 por nível no 10GN — ideal para regenerar guarnições antes do passe sem misturar sabores.
+
+── SOBREMESAS E CONFEITARIA ──
+
+Forma de Silicone GN 1/1
+
+Silicone Mould GN 1/1
+(Terceiro — compatível Rational)
+
+GN 1/1
+
+40 mm
+
+✓ Confeitaria
+
+✓ Confeitaria
+
+Crème brûlée em banho-maria · petit gâteau · pudim de leite · panna cotta · mousse assada
+
+Crème brûlée · Pudim de Leite do Sertão · Petit gâteau de chocolate · Torta de maracujá
+
+Confeitaria
+
+2
+
+2
+
+Vapor suave 90–95°C
+
+Banho-maria no forno com GN sólido com água abaixo + forma de silicone acima. Delta-T opcional.
+
+Placa Pizza / Quiche (redonda)
+
+Pizza & Quiche Tray
+Ref. 60.70.381 (TriLax)
+
+GN 1/1
+
+25 mm
+
+✓ Sobremesas
+
+✓ Sobremesas
+
+Assar tortinhas · cheesecake · pizza doce · bases de frutas · tarte tatin
+
+Cheesecake de goiaba · Tarte tatin de banana · Tortinha de castanha-do-pará
+
+Confeitaria
+
+4
+
+3
+
+Assar convecção seca
+
+Formato redondo + TriLax antiadesivo — base crocante sem grudar. Lado grelha para textura.
+
+GN 1/1 Banho-Maria (fundo liso)
+
+Solid GN 1/1 — 100mm (água)
+Ref. 60.70.170
+
+GN 1/1
+
+100 mm
+
+✓ Banho-Maria
+
+✓ Banho-Maria
+
+Suporte para banho-maria de sobremesas · regeneração de molhos delicados · chocolate derretido
+
+Base para crème brûlée · Chocolate belga derretido · Molho de caramelo
+
+Confeitaria
+
+2
+
+2
+
+Vapor 90°C
+
+Enchido com 2–3 cm de água → cria banho-maria perfeito e controlado dentro do forno.
+
+── DEFUMAÇÃO — 6GN + VarioSmoker ──
+
+Grelha Defumação (inox)
+
+Wire Rack / Smoke Rack
+Ref. 60.70.400
+
+GN 1/1
+
+20 mm
+
+✗ Sem smoker
+
+✓ Principal
+
+Defumar proteínas · salmão defumado · tutano · costela defumada · queijo curado
+
+Tutano defumado com flor de sal · Salmão defumado com blini · Costela defumada 24h
+
+6GN + Smoker
+
+0
+
+4
+
+Vapor+Fumaça
+(60–180°C)
+
+Grelha aberta permite circulação de fumaça em todos os lados do produto. Usar com lascas de cerejeira ou maçã.
+
+GN Sólido (coletor de gordura)
+
+Solid GN 1/1 — 40mm
+(coletor — nível abaixo)
+
+GN 1/1
+
+40 mm
+
+✗
+
+✓ Coletor
+
+Coletar gordura e líquidos durante defumação · evitar respingos no forno
+
+Suporte para todos os defumados — proteção do forno
+
+6GN + Smoker
+
+0
+
+4
+
+—
+
+Sempre colocar um GN sólido NO NÍVEL ABAIXO da grelha de defumação. Facilita a limpeza pós-serviço.
+
+── SOUS VIDE E PASTEURIZAÇÃO ──
+
+GN 1/1 Sólido + Kit Sous Vide
+
+SV Kit Rational
+Ref. 60.70.547
+
+GN 1/1
+
+100 mm
+
+✓ Sous Vide
+
+✓ Sous Vide
+
+Cocção sous vide no forno · costela 72h · salmão 52°C · frango 65°C · ovo 63°C
+
+Costela bovina 72h · Salmão pochê 52°C · Frango confit 65°C · Ovo a 63°C
+
+Linha Quente
+
+3
+
+2
+
+Sous Vide (30–99°C ±0.1°C)
+
+Kit inclui sonda de temperatura externa e posicionador de sonda. Combinar com seladora Henkelman Aura.
+
+── FRITURA SECA & CROCÂNCIA — CombiFry ──
+
+CombiFry Basket GN 1/1
+(Cesta Tela de Fritura)
+
+CombiFry Basket
+Ref. 6019.1150 / 60.73.619
+
+GN 1/1
+
+80 mm
+
+✓ Principal
+
+✓ Complementar
+
+Batata frita crocante sem óleo · batata palha · mandioca frita · nuggets · peito empanado · aipim · inhame
+
+Batata frita da casa · Mandioca crocante · Aipim frito · Barriga de panceta pururucada · Coxinha de frango
+
+Linha Quente / Garde Manger
+
+4
+
+4
+
+Conv. Seca 220–230°C
+
+Cesta tela (wire mesh) = circulação de ar 360° em todos os lados → crocância sem óleo. Patente Rational CombiFry. Para PURURUCA: panceta pré-cozida (65°C/2h) → CombiFry a 230°C/18min convecção 100% seca → pele explode. Usar GN sólido 40mm abaixo para coletar gordura. NÃO usar vapor — destrói a crocância.
+
+CombiFry Basket GN 1/2 (Porção individual)
+
+CombiFry Basket 1/2 Ref. 60.73.620 (ou equiv.)
+
+GN 1/2
+
+80 mm
+
+✓ Flexível
+
+✓ Flexível
+
+Porções à la carte de batata frita · mandioca · frituras pequenas por pedido
+
+Batata frita individual (à la carte) · Mix de raízes crocantes · Acompanhamento crocante por prato
+
+Linha Quente
+
+4
+
+4
+
+Conv. Seca
+220°C
+
+2 cestas por nível = maior rotatividade no à la carte. Ideal para fritar porções individuais sem acumular pedidos.
+
+GN Sólido Coletor (sob CombiFry)
+
+Solid GN 1/1 — 40mm
+(coletor de gordura)
+
+GN 1/1
+
+40 mm
+
+✓ Obrigatório
+
+✓ Obrigatório
+
+Coletar gordura e respingos durante fritura seca · facilitar limpeza pós-serviço · evitar manchas no forno
+
+Uso técnico — sempre abaixo do CombiFry Basket
+
+Suporte técnico
+
+4
+
+4
+
+—
+
+REGRA: sempre colocar 1 GN sólido 40mm NO NÍVEL IMEDIATAMENTE ABAIXO de cada CombiFry. Coletor captura a gordura que escorre pela tela. Essencial para panceta/pururuca (alto teor de gordura).
+
+
+
+SEÇÃO 4  —  EQUIPAMENTOS DE BAR
+
+O bar do rooftop funciona como destino de coquetéis independente e lounge pré-jantar. Para 120 lugares, a operação do bar deve suportar programa completo de coquetéis, serviço de vinhos e harmonizações, programa de cachaça e caipirinha, destilados premium e cervejas artesanais.
+
+
+
+Item
+
+Qtd
+
+Especificação
+
+REFRIGERAÇÃO
+
+
+
+
+
+Geladeira de Bar Embutida (150cm)
+
+2
+
+Porta de vidro sob balcão — para cervejas, brancos e espumantes
+
+Adega de Vinho Dual Zone
+
+1
+
+2 zonas de temperatura, capacidade 48 garrafas
+
+Máquina de Gelo
+
+1
+
+Produção mínima de 135 kg/dia em cubo — essencial para caipirinhas
+
+Caixa de Gelo (chest)
+
+2
+
+45 kg cada — reserva operacional durante o serviço
+
+Sistema de Chope (4 torneiras)
+
+1
+
+Sistema de pressão para 4 linhas de cerveja — fornecedores locais da Guiana
+
+★ Geladeira Exposição Cervejas Artesanais
+
+1
+
+Porta de vidro, capacidade 24 garrafas — exposição premium
+
+FERRAMENTAS DE BAR
+
+
+
+
+
+Coqueteleira Boston (inox)
+
+8
+
+1 por bartender + 2 reservas
+
+Coador Hawthorne + Julep (jogo)
+
+8
+
+Jogo duplo por estação
+
+Copo Misturador Crystal 700ml
+
+4
+
+Para stirred cocktails — Negroni, Manhattan
+
+Colher de Bar Twisted 30cm
+
+8
+
+Inox — para mixing e layered drinks
+
+Socador de Madeira 25cm
+
+4
+
+Essencial para caipirinhas e muddled cocktails
+
+Medidor Duplo (30ml / 45ml)
+
+12
+
+Inox — 1 por bartender + reservas
+
+★ Kit Caipirinha Dedicado
+
+4
+
+Socador + prensa de limão + copo específico — por estação
+
+★ Pistola de Fumaça
+
+2
+
+Para coquetéis defumados — AURA Old Fashioned
+
+★ Domo de Fumaça de Vidro
+
+4
+
+Apresentação teatral à mesa — selado com fumaça de macieira
+
+Espremedor de Cítrico Manual
+
+2
+
+Prensa profissional — produção alta de limão para caipirinhas
+
+Liquidificador Comercial
+
+2
+
+Hamilton Beach HBF600 ou equivalente — para frozen e batidos
+
+Saca-Rolhas Sommelier (dupla articulação)
+
+6
+
+1 por garçom de vinhos + reservas
+
+Tampa de Espumante (inox com trava)
+
+4
+
+Para garrafas abertas entre serviços
+
+Bico Dosador (livre + medido)
+
+24
+
+12 livre fluxo + 12 medidos — rotatividade alta
+
+Abridor (balcão + manual)
+
+6 sets
+
+Para cervejas artesanais em garrafa
+
+COPOS E TAÇAS
+
+
+
+
+
+Taça Vinho Tinto (Bordeaux 620ml)
+
+144
+
+Cristal premium — Riedel linha Restaurant ou equivalente
+
+Taça Vinho Branco (Chardonnay 460ml)
+
+72
+
+Cristal premium — mesma linha do tinto
+
+Flauta Champanhe/Espumante 240ml
+
+72
+
+Cristal — para celebrações, brindis e harmonizações
+
+Taça de Água 400ml
+
+240
+
+Cristal ou vidro de alta qualidade — 2x capacidade da casa
+
+Coupe Clássico 200ml
+
+72
+
+Para coquetéis assinatura e Negroni da Parrilla
+
+Old Fashioned / Rocks 300ml
+
+72
+
+Cristal — para destilados e AURA Smoked Old Fashioned
+
+★ Copo Caipirinha 350ml (tumbler largo)
+
+72
+
+Boca larga, base baixa — específico para caipirinha
+
+Highball 350ml
+
+72
+
+Para drinks longos e refrigerantes premium
+
+★ Snifter Cerveja Artesanal 420ml
+
+36
+
+Para servir IPAs e stouts — apresentação premium
+
+Xícara Espresso 80ml + Pires
+
+40
+
+Porcelana branca — para finalização do jantar
+
+ORGANIZAÇÃO DO BAR
+
+
+
+
+
+Rail de Bebidas (6 posições)
+
+2
+
+Inox, montado na parede ou balcão
+
+Esteira de Bar 45x30cm
+
+4
+
+Borracha antiderrapante — proteção do balcão
+
+Bandeja de Ingredientes (6 compartimentos)
+
+4
+
+Inox — para guarnições, frutas e decorações
+
+★ Expositor de Cachaça (tiered, 6 garrafas)
+
+1
+
+Para exposição da seleção premium de cachaça da casa
+
+Organizador de Estação de Coquetelagem
+
+2
+
+Multi-compartimento — por estação de bartender
+
+
+
+
+SEÇÃO 5  —  SERVIÇO DE MESA — LOUÇAS, TALHERES E COPOS
+
+O serviço de mesa está organizado em dois conjuntos: Modo A (À La Carte — fine dining refinado) e Modo B (Rodízio — travessas de barro estilo família). Todas as quantidades estão calibradas para 120 lugares com buffer operacional de 1,5x a 2x conforme a criticidade do item.
+
+
+
+MODO A — Pratos e Peças de Serviço
+
+Item
+
+Qtd
+
+Tamanho
+
+Estilo / Material
+
+Prioridade
+
+Prato de Jantar
+
+240
+
+30cm
+
+Porcelana bone china branca, esmaltada — mesma coleção em toda a casa
+
+Essencial
+
+Prato de Acompanhamento
+
+240
+
+22cm
+
+Mesma coleção do prato de jantar
+
+Essencial
+
+Prato de Pão
+
+180
+
+16cm
+
+Mesma coleção — para pão e manteiga
+
+Essencial
+
+Tigela de Sopa (borda larga)
+
+60
+
+300ml
+
+Para sopa e caldos
+
+Padrão
+
+Ramekin de Molho
+
+240
+
+60ml
+
+Cerâmica branca — para molhos, manteigas compostas e azeites
+
+Essencial
+
+Travessa Oval
+
+50
+
+35x25cm
+
+Para pratos compartilhados e apresentação de cortes
+
+Padrão
+
+Frigideira de Ferro Fundido (mesa)
+
+48
+
+20cm
+
+Pré-temperada — servida com protetor de mesa
+
+Essencial
+
+Tábua de Madeira para Bife
+
+60
+
+30x20cm
+
+Acácia com calha para sucos — assinatura visual do AURA
+
+Essencial
+
+Cestinha de Pão
+
+36
+
+20x15cm
+
+Vime com forro de linho — para bread service
+
+Padrão
+
+Manteigueira Individual
+
+36
+
+—
+
+Cerâmica com tampa — para manteiga de ervas
+
+Padrão
+
+Moinho Sal e Pimenta (jogo)
+
+30 jogos
+
+Moinhos de mesa
+
+Madeira ou acrílico — sempre cheios antes do serviço
+
+Essencial
+
+Porta-Condimentos (4 peças)
+
+15
+
+Jogo 4 peças
+
+Para mostardas, hot sauce e condimentos especiais
+
+Padrão
+
+
+
+
+
+
+
+★ MODO B — Peças de Serviço Adicionais para Rodízio
+
+★ Item
+
+Qtd
+
+Tamanho
+
+Observações de Serviço
+
+★ Tigela de Barro Grande
+
+48
+
+20cm
+
+Farofa, arroz, feijão, legumes — reposta continuamente
+
+★ Tigela de Barro Média
+
+48
+
+15cm
+
+Vinagrete, salsa, condimentos menores
+
+★ Ramekin de Barro para Chimichurri
+
+72
+
+10cm
+
+Refill contínuo durante todo o serviço de rodízio
+
+★ Chapa de Ferro Retangular
+
+20
+
+30x20cm
+
+Serviço de carnes quentes diretamente na mesa
+
+★ Tábua de Rodízio (grande)
+
+20
+
+40x25cm
+
+Para trinchar cortes maiores como costela e cordeiro à mesa
+
+★ Porta-Molhos (3 ramekins)
+
+20
+
+Jogo 3 vasilhas
+
+Chimichurri clásico + verde + salsa criolla — por mesa
+
+★ Colher de Serviço de Farofa
+
+240
+
+Colher grande de serviço
+
+Utensílio dedicado — nunca misturar com outros acompanhamentos
+
+★ Cartão de Sinalização Rodízio
+
+36
+
+Cartão duplo face
+
+VERDE = Aceito / VERMELHO = Pausado — identidade visual AURA
+
+
+
+Talheres
+
+Item
+
+Qtd
+
+Especificação
+
+Garfo de Jantar
+
+300
+
+Inox pesado, acabamento espelhado — 2,5x capacidade da casa
+
+Garfo de Salada
+
+120
+
+3 dentes — mesma coleção do garfo de jantar
+
+Faca de Jantar
+
+300
+
+Cabo sólido, sem serrilha — para uso geral
+
+Faca de Bife (tableside)
+
+240
+
+Serrilhada, pesada — apresentação individual por cliente
+
+Faca de Manteiga
+
+72
+
+Lâmina de espalhamento — para bread service
+
+Colher de Sopa
+
+120
+
+Colher redonda — para sopa de cebola e sopas do dia
+
+Colher de Sobremesa
+
+240
+
+Mesma coleção — para crème brûlée, pudim, tiramisu
+
+Garfo de Sobremesa
+
+200
+
+Mesma coleção — para tortas, cheesecake, alfajor
+
+Colher de Chá/Espresso
+
+144
+
+Para espresso, amuse-bouche e petits fours
+
+Pinça de Serviço 25cm
+
+30
+
+Inox — para serviço de pão, legumes e acompanhamentos
+
+Conjunto de Trinchar (tableside)
+
+10 jogos
+
+Garfo trinchante + faca de trinchar — show tableside
+
+★ Garfo Trinchante Longo (espeto)
+
+12
+
+Cabo longo inox — exclusivo para serviço no espeto rotativo
+
+
+
+Copos e Taças
+
+Item
+
+Qtd
+
+Volume
+
+Uso
+
+Mesmo SET do Modo A
+
+
+
+Rouparia e Acessórios de Mesa
+
+Item
+
+Qtd
+
+Observações
+
+Toalha de Mesa (linho/algodão)
+
+80
+
+100x100cm por mesa de 4 — passada, sem vincos — Modo A
+
+Guardanapo de Pano 50x50cm
+
+400
+
+Linho — dobra padrão para ambos os modos (4x cobertura)
+
+Porta-Guardanapo (metal dourado escovado)
+
+150
+
+Elegante — identidade CANOPY
+
+Trilho de Mesa (couro escuro ou linho)
+
+40
+
+Eixo central da mesa — Modo A e B
+
+Número de Mesa (metal escovado, em pé)
+
+40
+
+Para identificação durante serviço e reservas
+
+Porta-Conta (couro ou sintético)
+
+30
+
+Apresentado de cabeça para baixo, sem pressa
+
+Moinho de Pimenta Grande (tableside)
+
+10
+
+Grande formato — o garçom oferece na mesa durante o serviço
+
+Protetor de Mesa para Tábua/Frigideira
+
+60
+
+Tapete resistente ao calor 35x25cm — protege a toalha
+
+★ Bandeirinha/Cartão Vermelho-Verde
+
+40
+
+Sinalização visual do rodízio — por mesa, com identidade AURA
+
+
+
+
+
+
+SEÇÃO 6  —  PADRÕES DE SERVIÇO DE MESA
+
+Esta seção define como e onde cada prato é apresentado e servido ao cliente. O AURA opera com a filosofia 'Luxo Caloroso': formal o suficiente para transmitir premium, descontraído o suficiente para criar memória afetiva. Para 120 lugares, a disciplina de serviço simultâneo é fundamental.
+
+
+
+Mise en Place Padrão da Mesa (Modo A — À La Carte)
+
+Elemento
+
+Posição
+
+Observação
+
+Toalha de Mesa
+
+Centralizada — sem vincos
+
+Verificada antes de cada cobertura
+
+Trilho de Mesa
+
+Eixo central longitudinal
+
+Couro escuro ou linho — mantém durante todo o serviço
+
+Garfo de Jantar
+
+Esquerda do prato, 2cm da borda
+
+Dentes para cima
+
+Garfo de Salada
+
+Esquerda — fora do garfo de jantar
+
+Menor — para entrada
+
+Faca de Jantar
+
+Direita do prato — lâmina voltada para o prato
+
+Blade inward — sempre
+
+Colher de Sopa
+
+Direita — fora da faca
+
+Somente se o menu incluir sopa
+
+Prato de Pão
+
+Superior esquerdo
+
+Faca de manteiga posicionada horizontalmente sobre o prato
+
+Taça de Água
+
+Superior direito, acima da faca
+
+Pré-servida com água mineral sem gás
+
+Taça de Vinho Tinto
+
+Direita da taça de água
+
+Vazia até o pedido ser feito
+
+Guardanapo de Pano
+
+Sobre o prato de apresentação (antes da chegada)
+
+Dobrado em mitra ou dobra simples — consistência obrigatória
+
+Porta-Vela
+
+Centro da mesa
+
+Acesa antes dos clientes se sentarem
+
+Saleiro e Pimenteiro
+
+Canto da mesa, lado do servidor
+
+Sempre cheios — verificados no setup
+
+Cardápio
+
+Sobre o guardanapo
+
+Retirado pelo garçom na primeira abordagem
+
+
+
+Sequência de Serviço de Alimentos (Modo A)
+
+Prato
+
+Recipiente de Serviço
+
+Servido Por
+
+Ação na Mesa
+
+Temperatura
+
+Amuse-Bouche
+
+Plaquinha de ardósia ou colher individual
+
+Garçom
+
+Apresentado simultâneo para toda a mesa
+
+Varia
+
+Serviço de Pão
+
+Cestinha de vime
+
+Auxiliar / Garçom
+
+Posicionado + ramekin de manteiga
+
+Quente
+
+Steak Tartare
+
+Prato frio 22cm
+
+Capitão
+
+Montado à mesa se o menu especificar
+
+Frio / Gelado
+
+Camarão Cocktail
+
+Coupe gelado sobre prato com gelo
+
+Garçom
+
+Pré-montado na cozinha
+
+Muito frio
+
+Burrata
+
+Prato raso 22cm ou ardósia
+
+Garçom
+
+Azeite regado à mesa pelo garçom
+
+Temperatura ambiente
+
+Ostras
+
+Prato fundo sobre gelo picado
+
+Capitão
+
+3 molhos apresentados separadamente
+
+Muito frio
+
+Tutano Assado
+
+Ramekin de ferro sobre tábua
+
+Garçom
+
+Torradas posicionadas ao lado
+
+Muito quente
+
+Provoleta
+
+Mini frigideira de ferro fundido
+
+Garçom
+
+Servida borbulhando — anunciada ao chegar
+
+Muito quente
+
+Caldo de feijão
+
+Ramekin de sopa com pires
+
+Garçom
+
+Servida diretamente no recipiente já gratinado
+
+Muito quente
+
+Massas / Risotos
+
+Prato fundo ou bowl largo
+
+Garçom / Capitão
+
+Parmesão ralado à mesa pelo capitão
+
+Quente
+
+Bifes — todos os cortes
+
+Frigideira de ferro fundido OU tábua de madeira
+
+Capitão
+
+Capitão anuncia o corte, ponto e seleciona molho — protocolo completo
+
+Muito quente
+
+Acompanhamentos
+
+Mini frigideira ou ramekin
+
+Garçom
+
+Posicionados ao centro para compartilhar
+
+Quente
+
+Crème Brûlée
+
+Ramekin com pires
+
+Garçom
+
+Maçarico aceso à mesa — sempre teatral
+
+Quente/frio
+
+Demais Sobremesas
+
+Prato de sobremesa 22cm
+
+Garçom
+
+Pré-montadas na cozinha
+
+Varia
+
+Espresso + Petits Fours
+
+Xícara 80ml + pires
+
+Garçom
+
+Apresentados juntos na finalização
+
+Quente
+
+Conta
+
+Porta-conta de couro
+
+Garçom
+
+Apresentada de cabeça para baixo — sem pressa
+
+—
+
+
+
+★ Protocolo de Serviço de Rodízio (Modo B)
+
+No Modo Rodízio, a estrutura de serviço muda completamente. A brigada de salão é dividida em: Passadores de Espeto (carregam e trinchão) e Garçons de Mesa (gerenciam acompanhamentos e bebidas).
+
+
+
+Função
+
+Responsável
+
+Tarefa
+
+Proporção
+
+Passador de Espeto
+
+Cozinheiro designado ou Capitão
+
+Carrega o espeto da parrilla → mesa, anuncia o corte em voz alta, fatia diretamente no prato, retorna e recarrega
+
+1 passador para cada 15 lugares (= 8 passadores ativos para 120 lugares)
+
+Garçom de Mesa
+
+Equipe de Serviço
+
+Gerencia bebidas, reposição de acompanhamentos, cartão de sinalização, fluxo de hóspedes e ritmo geral
+
+1 garçom para cada 20 lugares (= 6 garçons ativos para 120 lugares)
+
+Capitão de Piso
+
+Capitão do Salão
+
+Monitora os cartões vermelhos/verdes, gerencia a ordem de rotação dos espetos, relacionamento com hóspedes VIP
+
+1 capitão para cada 40 lugares (= 3 capitães para 120 lugares)
+
+
+
+
+
+Etapa
+
+Ação no Protocolo de Rodízio
+
+Responsável
+
+1
+
+Mesa é montada com todo o mise en place do rodízio: tigelas de barro pré-servidas, porta-molhos, cartão de sinalização com o lado VERDE voltado para cima
+
+Auxiliar + Garçom
+
+2
+
+Cestinha de pão de alho quente entregue — primeiro contato da mesa com o serviço
+
+Garçom
+
+3
+
+Todos os acompanhamentos entregues simultaneamente no centro da mesa, estilo família
+
+Garçom
+
+4
+
+Passador 1: Linguiça — anunciada em voz alta ('LINGUIÇA...!') — fatia diretamente no prato
+
+Passador de Espeto
+
+5
+
+Passador 2: Frango — mesmo protocolo de anúncio e fatiamento
+
+Passador de Espeto
+
+6
+
+Rotação continua conforme cronograma de proteínas — sem interrupção durante o serviço
+
+Cozinha + Passadores
+
+7
+
+Quando o cliente vira o cartão para VERMELHO: Passador reconhece com aceno e pula para a próxima mesa
+
+Passador de Espeto
+
+8
+
+Garçom monitora níveis dos acompanhamentos — repõe imediatamente sem precisar ser solicitado
+
+Garçom
+
+9
+
+Capitão garante ritmo: NENHUMA mesa espera mais de 8 minutos entre cortes de espeto
+
+Capitão
+
+10
+
+Quando cliente encerra o jantar (cartão VERMELHO + sinal ao garçom): Capitão apresenta o cardápio de sobremesas
+
+Capitão
+
+
+
+Protocolo de Apresentação do Bife (Modo A)
+
+Etapa
+
+Ação
+
+Responsável
+
+1
+
+Bife descansa mínimo 3 minutos sobre grelha elevada após sair da parrilla
+
+Cozinha
+
+2
+
+Frigideira de ferro ou tábua de madeira pré-aquecida (ou resfriada conforme item)
+
+Cozinha
+
+3
+
+Bife embalado com faca de trinchar posicionada ao lado
+
+Chef de Partie
+
+4
+
+Capitão traz o bife à mesa e anuncia o corte antes de pousar
+
+Capitão
+
+5
+
+Protetor de mesa posicionado primeiro — sempre, sem exceção
+
+Capitão
+
+6
+
+Frigideira/tábua posicionada sobre o protetor com a alça voltada para o cliente
+
+Capitão
+
+7
+
+Capitão apresenta o ponto: 'Seu [corte], no ponto [x] conforme solicitado'
+
+Capitão
+
+8
+
+Capitão oferece seleção de molhos — chimichurri sempre incluído
+
+Capitão
+
+9
+
+Garçom posiciona os acompanhamentos ao centro da mesa simultaneamente
+
+Garçom
+
+10
+
+Faca de bife adicional posicionada à direita do cliente se necessário
+
+Auxiliar
+
+
+
+Referência de Pontos de Cozimento
+
+Ponto
+
+Temperatura Interna
+
+Descrição
+
+Bleu (Azul)
+
+< 46°C
+
+Centro frio e vermelho, mal aquecido — raro na operação
+
+Mal Passado
+
+49°C / 120°F
+
+Centro vermelho frio
+
+Ao Ponto Mal Passado
+
+57°C / 135°F
+
+Centro vermelho quente — PONTO RECOMENDADO PELO CHEF
+
+Ao Ponto
+
+63°C / 145°F
+
+Centro rosado quente
+
+Quase Bem Passado
+
+68°C / 155°F
+
+Levemente rosado
+
+Bem Passado
+
+74°C+ / 165°F+
+
+Sem rosa — totalmente cozido
+
+
+
+SEÇÃO 7  —  LOGÍSTICA VERTICAL
+
+A localização no rooftop (4º andar) cria uma dependência logística crítica no movimento vertical. Todo o abastecimento, resíduos, rouparia e equipe de um restaurante de 120 lugares devem transitar por um fluxo vertical controlado, eficiente e separado do fluxo de hóspedes.
+
+
+
+Matriz de Andares do Edifício
+
+Andar
+
+Função
+
+Áreas Principais
+
+Prioridade de Fluxo
+
+Térreo
+
+Central de Suporte + Entrada do Hotel
+
+Doca de Recebimento, Câmaras Frias, Sala de Preparo de Proteínas, Estoque Seco, Vestiário, Central de Resíduos, Adega Térrea, Estoque de Carvão
+
+CRÍTICO — toda cadeia começa aqui
+
+2º Andar
+
+Quartos de Hóspedes
+
+Acomodações — sem fluxo de restaurante
+
+BAIXO
+
+3º Andar
+
+Quartos de Hóspedes
+
+Acomodações — sem fluxo de restaurante
+
+BAIXO
+
+4º Andar
+
+Quartos de Hóspedes
+
+Acomodações — sem fluxo de restaurante
+
+BAIXO
+
+5º Andar (Rooftop)
+
+Operação do Restaurante
+
+Cozinha, Parrilla, Sistema de Espeto, Salão, Bar, Adega de Vinhos, Banheiros, Terraço
+
+ALTO — todos os fluxos de serviço terminam aqui
+
+
+
+Especificações do Elevador de Serviço
+
+Capacidade: 1.050 kg
+
+Horário Mínimo de Operação: 06:00 às 02:00
+
+Acesso: Exclusivo brigada de cozinha e equipe de serviço — NUNCA hóspedes
+
+★ Pré-Carga Modo Rodízio: Toda a carga adicional do rodízio (tigelas de barro, carvão extra, espetos carregados) deve estar no 5º andar mínimo 90 minutos antes do serviço
+
+
+
+Mapa de Fluxo Vertical
+
+Categoria de Fluxo
+
+Origem
+
+Destino
+
+Usa Elevador
+
+Horário
+
+ABASTECIMENTO DE ALIMENTOS
+
+
+
+
+
+
+
+
+
+Hortifruti Fresco
+
+Recebimento (Térreo)
+
+Cozinha 5º Andar
+
+SIM — caixas cobertas
+
+06:00–09:00 diário
+
+Proteínas
+
+Câmara Fria → Sala de Preparo (Térreo)
+
+Cozinha 5º Andar
+
+SIM — recipientes lacrados
+
+10:00–14:00 pré-serviço
+
+★ Espetos Carregados (Modo B)
+
+Sala de Preparo (Térreo)
+
+Parrilla 5º Andar
+
+SIM — cuidado com transporte
+
+90 min antes do serviço
+
+Secos e Pantry
+
+Estoque Seco (Térreo)
+
+Prateleira seca da Cozinha
+
+SIM — caixas e bins
+
+Semanal ou conforme necessidade
+
+Bebidas
+
+Adega Térrea (Térreo)
+
+Bar + Adega 5º Andar
+
+SIM — engradados e caixas
+
+14:00–16:00 pré-serviço
+
+★ Carvão e Lenha
+
+Estoque de Carvão (Térreo)
+
+Parrilla 5º Andar
+
+SIM — baldes/sacos resistentes
+
+Matinal + reposição conforme queima
+
+RESÍDUOS
+
+
+
+
+
+
+
+
+
+Lixo Orgânico e Geral
+
+Lixeiras da Cozinha 5º Andar
+
+Central de Resíduos Térreo
+
+SIM — sacos lacrados
+
+Pós-serviço a partir das 23:00
+
+Recicláveis (bar e cozinha)
+
+5º Andar
+
+Sala de Triagem Térreo
+
+SIM
+
+Diário pós-serviço
+
+Vidros
+
+Bar 5º Andar
+
+Descarte de vidros Térreo
+
+SIM — recipientes especiais
+
+Diário
+
+Óleos de Fritura
+
+Cozinha 4º Andar
+
+Coleta no Térreo
+
+SIM — recipientes vedados
+
+Semanal
+
+ROUPARIA E LOUÇAS
+
+
+
+
+
+
+
+
+
+Rouparia Limpa
+
+Lavanderia Térrea
+
+Salão 4º Andar
+
+SIM — dobrada em carrinho
+
+Diário pré-serviço
+
+Rouparia Suja
+
+Salão 5º Andar
+
+Lavanderia Térrea ou externa
+
+SIM — sacos de roupa suja
+
+Diário pós-serviço
+
+EQUIPE
+
+
+
+
+
+
+
+
+
+Brigada de Cozinha
+
+Vestiário Térreo
+
+Cozinha 4º Andar
+
+SIM
+
+30 min antes do serviço
+
+Equipe de Serviço
+
+Vestiário Térreo
+
+Salão 5º Andar
+
+SIM
+
+30 min antes do serviço
+
+
+
+Áreas de Suporte do Térreo (Obrigatórias)
+
+Área
+
+Tamanho Mínimo
+
+Função
+
+Status
+
+Doca de Recebimento
+
+12 m²
+
+Recebimento de fornecedores, balança e inspeção
+
+A definir
+
+Estoque Seco
+
+20 m²
+
+Produtos não perecíveis — sistema FIFO rigoroso
+
+A definir
+
+Câmara Fria — Proteínas
+
+15 m²
+
+0–4°C — todas as proteínas separadas por tipo
+
+A definir
+
+Câmara Fria — Laticínios/Hortifruti
+
+10 m²
+
+2–6°C — rotatividade diária alta
+
+A definir
+
+Sala de Preparo de Proteínas
+
+15 m²
+
+Açougue, porcionamento, embalagem a vácuo
+
+A definir
+
+★ Estoque de Carvão e Lenha
+
+8 m²
+
+Carvão vegetal e lenha dura — ambiente seco e ventilado
+
+A definir
+
+Vestiário (Masculino + Feminino)
+
+20 m²
+
+Separados, com banheiros — obrigatório por legislação
+
+A definir
+
+Central de Resíduos
+
+10 m²
+
+Orgânico, reciclável, vidro, óleo — triagem separada
+
+A definir
+
+Adega Térrea
+
+12 m²
+
+Pré-resfriamento de vinhos — 14–16°C
+
+A definir
+
+
+
+
+
+
+SEÇÃO 8  —  MAPA OPERACIONAL DO HOTEL
+
+Estrutura Departamental
+
+Departamento
+
+Localização
+
+Reporta A
+
+Funções Principais
+
+Recepção / Front Office
+
+Térreo
+
+Gerente Geral
+
+Recepcionista, Concierge, Porteiro
+
+Cozinha
+
+5º Andar
+
+Chef Executivo
+
+Sous Chef, Grill Chef, ★ Chef de Espeto, Chef de Partie, Commis, Steward
+
+Serviço de Restaurante
+
+5º Andar
+
+Gerente de Restaurante
+
+Capitão, Garçom, ★ Passador de Espeto, Auxiliar, Sommelier
+
+Bar
+
+5º Andar
+
+Gerente de Bar
+
+Head Bartender, Bartender, Bar Back
+
+Governança / Housekeeping
+
+2º, 3º e 4º Andares
+
+Governanta
+
+Camareiras, Equipe de Rouparia
+
+Engenharia / Manutenção
+
+Todos os Andares
+
+Engenheiro Chefe
+
+Técnico, HVAC, Encanador
+
+Compras
+
+Térreo
+
+Gerente Geral
+
+Encarregado de Compras
+
+Segurança
+
+Térreo + Rooftop
+
+Gerente de Segurança
+
+Vigilantes, Operador de CFTV
+
+
+
+★ Matriz de Decisão do Modo de Serviço
+
+Gatilho
+
+Ação
+
+Antecedência Necessária
+
+Noite de fim de semana (Sex/Sáb)
+
+Padrão: Modo B (Rodízio) — salvo evento privado que exija Modo A
+
+24 horas
+
+Grupo acima de 30 pessoas
+
+Oferecer Modo B como opção preferencial ao organizador
+
+48 horas
+
+Evento privado
+
+Modo definido em contrato — sem alteração no dia
+
+Na assinatura do contrato
+
+Semana com baixa ocupação
+
+Somente Modo A (À La Carte)
+
+Decisão serviço a serviço
+
+Data especial (Dia dos Namorados, Réveillon)
+
+Modo A Premium ou Modo B Premium conforme tema do evento
+
+7 dias de antecedência
+
+Grupo de hóspedes do hotel (10+)
+
+Oferecer pacote especial Modo B com desconto
+
+No momento da reserva
+
+
+
+
+
+
+
+
+
+Sistemas de Comunicação
+
+Sistema
+
+Uso
+
+Prioridade
+
+PDV (Ponto de Venda)
+
+Todos os pedidos de A&B, controle de mesas, faturamento, gestão de reservas
+
+CRÍTICO
+
+KDS (Kitchen Display System)
+
+Pedidos exibidos em tempo real na cozinha por estação — elimina papel no serviço
+
+ALTO
+
+Fone/Headset Interno
+
+Comunicação capitão ↔ cozinha durante o serviço — especialmente para 120 lugares
+
+ALTO
+
+Rádio Comunicador
+
+Segurança, engenharia, gerência — comunicação entre andares
+
+PADRÃO
+
+Sistema de Reservas (OpenTable/Resy)
+
+Controle de reservas, lista de espera, preferências dos hóspedes
+
+ALTO
+
+App de Equipe (WhatsApp Business)
+
+Atualizações de turno, escalas, informes urgentes
+
+PADRÃO
+
+CFTV
+
+Cobertura de segurança em todos os andares e acesso ao rooftop
+
+ALTO
+
+
+
+
+
+SEÇÃO 9  —  PROCEDIMENTOS OPERACIONAIS PADRÃO (POPs)
+
+Os POPs garantem consistência, segurança alimentar e qualidade em cada serviço para 120 lugares. São obrigatórios para toda a equipe e devem ser revisados no treinamento de pré-abertura. Itens específicos do rodízio marcados com ★.
+
+
+
+POP 001 — Abertura da Cozinha
+
+Etapa
+
+Tarefa
+
+Responsável
+
+Horário
+
+1
+
+Chegada e troca de uniforme limpo no vestiário do térreo
+
+Toda a Equipe
+
+T-90min
+
+2
+
+Câmaras frias: verificar e registrar temperaturas no log diário
+
+Sous Chef
+
+T-85min
+
+3
+
+Revisar lista de reservas, número de covers e MODO DE SERVIÇO (A ou B)
+
+Head Chef + Sous Chef
+
+T-80min
+
+4
+
+Retirar requisição do estoque via elevador de serviço
+
+Commis Chef
+
+T-75min
+
+5
+
+Sanitizar todas as superfícies de trabalho com produto alimentar certificado
+
+Toda a Equipe
+
+T-70min
+
+6
+
+Montar cada estação: ferramentas, recipientes e mise en place completo
+
+Chefs de Estação
+
+T-60min
+
+7
+
+Acender parrilla — aquecimento mínimo de 30 minutos antes do serviço
+
+Grill Chef
+
+T-60min
+
+★8
+
+SE MODO B: Montar sistema de espeto rotativo, testar motor e velocidade, carregar primeiros espetos
+
+Chef de Espeto
+
+T-60min
+
+9
+
+Ligar suite de cozimento BKS — verificar todos os queimadores e fritadeiras
+
+Sous Chef
+
+T-45min
+
+10
+
+Iniciar preparo de proteínas: porcionamento, tempero, mise en place
+
+Chef de Partie Grill
+
+T-45min
+
+★11
+
+SE MODO B: Carregar tigelas de barro, preparar farofa, ativar sistema de reposição de acompanhamentos
+
+Commis + Chef de Espeto
+
+T-45min
+
+12
+
+Briefing pré-serviço: anunciar modo, pratos especiais, alergias, hóspedes VIP
+
+Head Chef
+
+T-15min
+
+13
+
+Anunciar 'Mise en Place Pronta' — serviço autorizado
+
+Head Chef
+
+T-0
+
+
+
+POP 002 — Manejo e Porcionamento de Proteínas
+
+Etapa
+
+Procedimento
+
+Padrão / Referência
+
+1
+
+Retirar proteínas da câmara em recipientes lacrados — nunca a granel
+
+Temperatura ≤ 4°C no recebimento
+
+2
+
+Inspecionar cor, odor e data de validade — rejeitar qualquer desvio
+
+Tolerância zero para desvio
+
+3
+
+Usar EXCLUSIVAMENTE a tábua de corte VERMELHA para proteínas cruas
+
+Nunca contaminação cruzada
+
+4
+
+Porcionar conforme especificação do cardápio
+
+Ribeye: 350g | T-Bone: 500g | NY Strip: 300g | Picanha: 250–300g | Costela: 400g
+
+★5
+
+SE MODO B: Além das porções à la carte, preparar os espetos com: Picanha 1–1,5kg/espeto | Frango: 6–8 coxas/espeto | Costela: 800g–1kg/espeto
+
+Verificar equilíbrio do espeto antes de colocar no motor
+
+6
+
+Temperar, etiquetar com data, hora e peso — embalar a vácuo se não for usar no mesmo dia
+
+Validade: 72h a vácuo / 24h sem embalagem
+
+7
+
+Temperar os bifes: retirar da refrigeração 30 min antes da grelha
+
+Temperatura ambiente 18–20°C por 30 minutos
+
+8
+
+FIFO rigorosamente aplicado — primeiro a entrar, primeiro a sair
+
+Verificado pelo Sous Chef no setup diário
+
+
+
+POP 003 — Operação da Parrilla
+
+Etapa
+
+Procedimento
+
+Padrão
+
+1
+
+Acender carvão no iniciador 60 min antes do serviço
+
+Somente carvão vegetal de madeira dura ou lenha — nunca briquete com aditivos
+
+2
+
+Aguardar estágio cinza-branco das brasas antes de grelhar
+
+Temperatura da superfície da grelha: 450–550°C
+
+3
+
+Distribuir brasas em zonas de calor: Direta / Indireta / Descanso
+
+Zona A: Selagem | Zona B: Finalização | Zona C: Descanso e manutenção
+
+4
+
+Limpar e untar as grelhas com escova de latão + óleo neutro
+
+Grelha quente — sempre antes do serviço
+
+5
+
+Posicionar bifes na zona correta conforme espessura e corte
+
+Cortes mais grossos: selagem direta → finalização indireta
+
+6
+
+NUNCA deixar a parrilla sem supervisão durante o serviço
+
+Designar responsável exclusivo — especialmente no rodízio
+
+7
+
+Usar termômetro em cada bife — sem exceção
+
+Ver tabela de pontos de cozimento na Seção 6
+
+8
+
+Descanso mínimo de 3 min em grelha elevada antes de empratar
+
+Distribuição dos sucos — qualidade do prato
+
+9
+
+Pós-serviço: retirar cinzas, limpar grelha, desligar ventilação
+
+Gaveta de cinzas esvaziada após cada serviço
+
+
+
+★ POP 004 — Operação do Sistema de Espeto Rotativo (Modo B)
+
+Etapa
+
+Procedimento
+
+Padrão
+
+1
+
+Carregar as proteínas nos espetos conforme cronograma de rotação — Linguiça sempre primeiro
+
+Equilíbrio obrigatório: proteína centrada no espeto para rotação uniforme
+
+2
+
+Inserir espetos no motor em ângulo correto conforme manual — fixar mecanismo de trava
+
+Testar o mecanismo de trava antes de cada carga — tolerância zero para espeto solto
+
+3
+
+Confirmar velocidade do motor: média para cortes grandes, alta para linguiça e frango
+
+Inspeção visual da rotação a cada 10 minutos durante o serviço
+
+4
+
+Regar com chimichurri e sucos da própria gordura a cada 15 minutos
+
+Pincel de cabo longo — manter à mão na estação da parrilla
+
+5
+
+Quando pronto: Passador de Espeto pega com luvas e leva à mesa
+
+Anunciar o corte em voz alta ao entrar na sala: 'PICANHA...!' / 'COSTELA...!'
+
+6
+
+Trinchar à mesa: segurar o espeto firme com garfo trinchante, fatiar sobre protetor, prato do cliente embaixo
+
+SEMPRE fatiar com a faca se afastando do cliente — segurança em primeiro lugar
+
+7
+
+Retornar espeto à parrilla, recarregar, re-entrar na rotação
+
+Ciclo contínuo sem interrupção durante todo o serviço de rodízio
+
+8
+
+Nunca apressar o fatiamento — qualidade acima da velocidade
+
+Apresentar com orgulho: o espeto é o coração do AURA
+
+
+
+POP 005 — Fechamento da Cozinha
+
+Etapa
+
+Tarefa
+
+Responsável
+
+Horário
+
+1
+
+Último pedido anunciado / Último espeto finalizado no serviço
+
+Head Chef
+
+T+0
+
+2
+
+Brigada inicia desmontagem das estações — ordenada e metódica
+
+Sous Chef
+
+T+15min
+
+★3
+
+SE MODO B: Desmontar sistema de espeto — limpar todos os espetos com desengordurante, secar, armazenar
+
+Chef de Espeto
+
+T+20min
+
+4
+
+Todos os alimentos: etiquetar, embalar e devolver às câmaras frias
+
+Todos os Chefs de Estação
+
+T+20min
+
+5
+
+Parrilla: retirar cinzas, escovar grelha, iniciar resfriamento
+
+Grill Chef
+
+T+20min
+
+6
+
+Desligar suite BKS conforme procedimento do fabricante
+
+Sous Chef
+
+T+30min
+
+7
+
+Limpeza profunda de todas as superfícies de trabalho e equipamentos
+
+Steward + Commis
+
+T+45min
+
+★8
+
+SE MODO B: Lavar e inspecionar todas as tigelas de barro — descartar qualquer vasilha trincada
+
+Steward
+
+T+50min
+
+9
+
+Resíduos transportados para a Central de Resíduos no térreo via elevador
+
+Steward
+
+T+60min
+
+10
+
+Temperaturas das câmaras registradas no log diário
+
+Sous Chef
+
+T+70min
+
+11
+
+Checklist de fechamento assinado pelo Sous Chef — último a sair
+
+Sous Chef
+
+T+80min
+
+12
+
+Luzes, equipamentos e registros de gás desligados
+
+Sous Chef
+
+T+85min
+
+
+
+SEÇÃO 10  —  CRONOGRAMA DE MANUTENÇÃO
+
+A manutenção preventiva é obrigatória e deve ser registrada no livro de manutenção diário. Para um restaurante de 120 lugares com operação de duplo modo, a confiabilidade dos equipamentos é crítica. Itens do sistema de espeto marcados com ★.
+
+
+
+Manutenção Diária
+
+Equipamento
+
+Tarefa
+
+Responsável
+
+Grelha Parrilla
+
+Retirar cinzas, escovar grelhas, inspecionar estrutura do braseiro
+
+Grill Chef
+
+Suite de Cozimento BKS
+
+Limpar exterior, verificar acendimento de queimadores, limpar superfícies
+
+Chef de Estação
+
+★ Espetos Rotativos
+
+Limpar todos os espetos com desengordurante, verificar alojamento do motor, inspecionar articulações
+
+Chef de Espeto
+
+★ Unidade de Motor
+
+Verificar ponto de lubrificação, testar configurações de velocidade, limpar exterior
+
+Engenheiro ou Chef de Espeto
+
+Fritadeiras
+
+Filtrar óleo, limpar cesto, verificar calibração de temperatura
+
+Chef de Estação
+
+Forno Combi
+
+Ciclo de autolimpeza, limpar vedação da porta, verificar função de vapor
+
+Chef de Estação
+
+Balcões Refrigerados
+
+Limpar interior, verificar vedações, registrar temperatura
+
+Sous Chef
+
+Lava-Louças
+
+Limpar filtro, descalcificar se necessário, inspecionar braço de enxágue
+
+Steward
+
+Câmaras Frias
+
+Registrar temperaturas manhã e tarde, verificar vedações das portas
+
+Sous Chef
+
+Coifas / Exaustores
+
+Verificar condição dos filtros, inspecionar bandeja de gordura
+
+Steward
+
+★ Tigelas de Barro
+
+Inspecionar trincas após cada lavagem — descartar imediatamente se trincada
+
+Steward
+
+Máquina de Gelo do Bar
+
+Limpar exterior, registrar produção, verificar filtro de água
+
+Bar Staff
+
+
+
+Manutenção Semanal
+
+Equipamento
+
+Tarefa
+
+Responsável
+
+Coifa da Parrilla
+
+Limpeza profunda dos filtros de gordura, inspecionar dutos
+
+Steward + Engenheiro
+
+Suite BKS — Completa
+
+Limpeza profunda de todas as superfícies, bocas, pilotos e queimadores
+
+Chefs + Steward
+
+★ Sistema de Espeto — Revisão Semanal
+
+Desmontagem total da unidade motora, limpeza profunda, lubrificação de rolamentos, verificar curvatura dos espetos (descartar se empenado)
+
+Engenheiro + Chef de Espeto
+
+Forno Combi — Descalcificação
+
+Ciclo completo de descalcificação do sistema de água, limpeza profunda da câmara
+
+Chef de Estação
+
+Câmaras Frias — Limpeza Total
+
+Limpeza interna completa, verificar serpentina do evaporador, vedações das portas
+
+Steward + Engenheiro
+
+Troca de Óleo das Fritadeiras
+
+Troca completa do óleo, limpeza da cuba, inspecionar resistência ou queimador
+
+Chef de Estação
+
+Afiação de Facas
+
+Afiação profissional de todas as facas da cozinha — manter padrão de corte
+
+Head Chef ou serviço terceirizado
+
+★ Inventário de Vasilhas de Barro
+
+Inventário completo — descartar todas as trincadas, calcular reposição necessária
+
+Steward
+
+
+
+Manutenção Mensal
+
+Equipamento
+
+Tarefa
+
+Responsável
+
+Todos os Equipamentos de Cozimento
+
+Limpeza profunda profissional incluindo componentes internos inacessíveis na limpeza diária
+
+Empresa Terceirizada
+
+Sistema de Coifas e Dutos
+
+Limpeza profissional de coifas — obrigatório por normas de segurança contra incêndio
+
+Empresa Terceirizada
+
+★ Motor do Espeto — Revisão Completa
+
+Inspeção total por técnico certificado pelo fabricante — verificar motor, engrenagens e alinhamento
+
+Técnico Certificado
+
+Linhas de Gás
+
+Inspecionar todas as conexões, testar vazamentos com detectores
+
+Engenheiro Habilitado
+
+Compressores das Câmaras Frias
+
+Limpar bobinas do condensador, verificar nível do gás refrigerante
+
+Técnico HVAC
+
+Sistema de Supressão de Incêndio
+
+Testar sistema de ativação, verificar nível do agente extintor
+
+Empresa de Segurança Contra Incêndio
+
+Painéis Elétricos
+
+Inspeção visual, testar disjuntores, verificar aterramento
+
+Eletricista Habilitado
+
+Controle de Pragas
+
+Tratamento preventivo por empresa especializada e licenciada
+
+Empresa Terceirizada
+
+Sistema Hidráulico
+
+Verificar pressão da água, inspecionar aquecedor, checar bombas
+
+Encanador / Engenheiro
+
+
+
+SEÇÃO 11  —  FORNECEDORES RECOMENDADOS
+
+Georgetown, Guiana, tem conexão logística direta com Miami, tornando os EUA o principal hub internacional de abastecimento. Para um restaurante de 120 lugares com conceito híbrido argentino-brasileiro, o abastecimento de carnes premium, ingredientes brasileiros, carvão e vasilhas de barro é crítico.
+
+
+
+EUA / Miami — Hub Principal de Abastecimento
+
+Categoria
+
+Fornecedor
+
+Produto
+
+Contato
+
+Carnes Premium
+
+Allen Brothers (Chicago → embarque Miami)
+
+Ribeye USDA Prime, T-Bone, NY Strip
+
+allenbrothers.com
+
+Carnes Premium
+
+Creekstone Farms Premium Beef
+
+Black Angus — cortes equivalentes à picanha, costela, tutano
+
+creekstonefarms.com
+
+Carnes Premium
+
+Greater Omaha Packing (dist. Miami)
+
+Carne bovina Choice e Prime para volume
+
+greateromaha.com
+
+Frutos do Mar
+
+Sysco South Florida (Miami)
+
+Linha completa: camarão, ostras, salmão, peixe do dia
+
+sysco.com
+
+Hortifruti
+
+Sysco / US Foods South Florida
+
+Linha completa de hortifruti e itens especiais
+
+usfoods.com
+
+Secos e Pantry
+
+US Foods Miami
+
+Distribuidor broadline completo
+
+usfoods.com
+
+★ Ingredientes Brasileiros
+
+Braga Brothers (Hialeah, Miami)
+
+Farofa, cachaça, ervas para chimichurri, pantry brasileiro
+
+Loja física Miami
+
+★ Ingredientes Brasileiros
+
+Presidente Supermarket (Miami)
+
+Cachaça, farofa, molhos brasileiros, farinha de mandioca
+
+Loja física Miami
+
+Equipamentos de Cozinha
+
+WebstaurantStore
+
+Todos os utensílios, equipamentos pequenos, acessórios
+
+webstaurantstore.com
+
+Equipamentos de Cozinha
+
+Restaurant Depot (Miami)
+
+Compras presenciais de equipamentos e suprimentos
+
+Lojas Miami
+
+Louças
+
+Libbey Foodservice (dist. Miami)
+
+Copos, pratos, peças de serviço
+
+libbey.com
+
+Rouparia
+
+Crown Linen Designs (Miami)
+
+Guardanapos, toalhas, trilhos de mesa
+
+crownlinen.com
+
+Vinhos e Destilados
+
+Southern Glazer's South Florida
+
+Portfólio completo — Malbec argentino, cachaça, Fernet, cervejas
+
+southernglazers.com
+
+★ Vinhos Argentinos
+
+Palm Bay / Winebow (Miami)
+
+Malbec, Torrontés — rótulos Catena, Zuccardi, Luigi Bosca
+
+palmbay.com
+
+Produtos de Limpeza
+
+Ecolab (região Miami)
+
+Químicos certificados NSF/HACCP para uso alimentar
+
+ecolab.com
+
+
+
+Brasil — Abastecimento Secundário
+
+Categoria
+
+Fornecedor
+
+Produto
+
+Região
+
+Carnes Premium
+
+JBS / Friboi Premium
+
+Picanha, fraldinha, costela — cortes premium com certificação export
+
+Nacional
+
+Carnes Premium
+
+Marfrig / Bassi
+
+Cortes especiais Angus — picanha e cortes nobres
+
+SP / RS
+
+Carnes Premium
+
+NH Foods / Minerva
+
+Exportação de cortes premium certificados
+
+GO / MG
+
+★ Farofa e Pantry Brasileiro
+
+Yoki / Quaker Brasil
+
+Farofa pronta, farinha de mandioca, mandioca congelada
+
+Nacional
+
+★ Carvão Vegetal
+
+Carvão Stam / produtores locais PA e MT
+
+Carvão de madeira dura para parrilla — sem aditivos
+
+PA / MT / GO
+
+★ Cachaça Premium
+
+Cachaça 51 / Ypióca / Leblon / Avuá
+
+Seleção premium para programa de bar
+
+SP / CE / MG / RJ
+
+★ Vasilhas de Barro
+
+Artesanato PB / RS / Tramontina barro
+
+Tigelas, ramekins e travessas de barro — esmalte alimentar
+
+PB / RS / MG
+
+Facas Profissionais
+
+Tramontina Profissional
+
+Linha profissional completa — custo-benefício
+
+RS / Nacional
+
+Louças
+
+Oxford Porcelanas
+
+Porcelana branca de restaurante — coleções profissionais
+
+MG
+
+Copos
+
+Nadir Figueiredo
+
+Cristalaria para A&B — copos e taças
+
+SP
+
+
+
+Europa — Abastecimento Especializado
+
+Categoria
+
+Fornecedor
+
+Produto
+
+País
+
+Suite de Cozimento BKS
+
+BKS Netherlands
+
+Monoblock personalizado — em andamento
+
+Holanda 🇳🇱
+
+★ Motor de Espeto Rotativo
+
+Argusto / Maxima (NL/DE)
+
+Sistemas profissionais de espeto motorizado — verificar compatibilidade 110/220V
+
+Holanda / Alemanha 🇩🇪
+
+Facas Premium
+
+Wüsthof Professional
+
+Facas de chef, conjunto de trinchar, facas de bife
+
+Alemanha 🇩🇪
+
+Facas Premium
+
+Victorinox Culinary
+
+Linha profissional de cozinha
+
+Suíça 🇨🇭
+
+Cristalaria Premium
+
+Riedel
+
+Taças de vinho premium — linha Restaurant ou O Series
+
+Áustria 🇦🇹
+
+Cristalaria Premium
+
+Schott Zwiesel (Tritan)
+
+Cristal resistente para restaurante
+
+Alemanha 🇩🇪
+
+Louças
+
+RAK Porcelain
+
+Porcelana branca premium linha HoReCa
+
+EAU / Europa
+
+Panelas
+
+Matfer Bourgeat
+
+Panelas profissionais francesas, aço carbono
+
+França 🇫🇷
+
+Rouparia Fina
+
+Garnier-Thiébaut
+
+Linho fino de restaurante — guardanapos e toalhas premium
+
+França 🇫🇷
+
+★ Vinhos Argentinos (via Miami)
+
+Importação via distribuidora em Miami
+
+Catena, Luigi Bosca, Zuccardi — rótulos de referência
+
+Argentina (via Miami)
+
+
+
+
+
+
+Matriz de Prioridade de Aquisição
+
+Categoria
+
+Fonte
+
+Prazo de Entrega
+
+Observações
+
+Suite BKS
+
+Holanda
+
+12–16 semanas
+
+Em andamento
+
+★ Motor de Espeto Rotativo
+
+Brasil, Europa ou Miami
+
+6–10 semanas
+
+URGENTE — verificar compatibilidade elétrica da Guiana (60Hz)
+
+Utensílios de Cozinha
+
+Miami
+
+2–4 semanas
+
+Pedido em volume único
+
+Louças e Cristalaria
+
+Miami ou Brasil
+
+4–8 semanas
+
+2x o conjunto operacional
+
+★ Vasilhas de Barro
+
+Brasil (Tramontina ou artesanal)
+
+4–6 semanas
+
+Pedir 60 unidades + 20% de buffer para reposição
+
+★ Cachaça + Vinhos Argentinos
+
+Miami (Southern Glazer's)
+
+2–3 semanas
+
+Definir plano de importação e tributos na Guiana
+
+★ Carvão Vegetal
+
+Brasil ou fornecedor local da Guiana
+
+Contínuo
+
+PRIORIDADE: identificar fornecedor local de carvão de madeira dura
+
+★ Pantry Brasileiro (farofa, etc.)
+
+Miami (Braga Brothers) ou Brasil
+
+2–3 semanas
+
+Pedido trimestral
+
+Carnes Frescas
+
+Miami (Allen Brothers / Creekstone)
+
+Pedidos semanais pós-abertura
+
+Abrir conta 60 dias antes da abertura
+
+Rouparia
+
+Miami (Crown Linen)
+
+4–6 semanas
+
+3x o conjunto: em uso + lavanderia + reserva
+
+
+
+
+
+
+PRÓXIMOS PASSOS E PLANO DE AÇÃO
+
+Prioridade
+
+Ação
+
+Responsável
+
+Prazo
+
+P1 — CRÍTICO
+
+Confirmar data de entrega dos desenhos técnicos do BKS
+
+Chef Jamim + Cliente
+
+Imediato
+
+P1 — CRÍTICO
+
+★ Adquirir sistema de espeto rotativo — verificar tensão da Guiana (110/220V)
+
+Compras
+
+30 dias
+
+P1 — CRÍTICO
+
+Iniciar pedido de utensílios de cozinha — pedido Miami em volume
+
+Compras
+
+30 dias
+
+P1 — CRÍTICO
+
+Encomendar louças, talheres e cristalaria (2x conjunto operacional)
+
+Compras
+
+30 dias
+
+P2 — ALTO
+
+Definir e iniciar construção das áreas de suporte do térreo
+
+Engenharia + Cliente
+
+30 dias
+
+P2 — ALTO
+
+★ Encomendar vasilhas de barro do Brasil (60 unidades + buffer)
+
+Compras
+
+30 dias
+
+P2 — ALTO
+
+Abrir contas nos fornecedores: Allen Brothers, Southern Glazer's
+
+Compras + Gestão
+
+45 dias
+
+P2 — ALTO
+
+★ Identificar fornecedor local de carvão de madeira dura na Guiana
+
+Compras
+
+45 dias
+
+P2 — ALTO
+
+Recrutar Head Chef, Sous Chef, Grill Chef e ★ Chef de Espeto
+
+Gestão / RH
+
+45 dias
+
+P3 — PADRÃO
+
+Definir e contratar sistema de PDV e KDS
+
+Gerente de Restaurante
+
+60 dias
+
+P3 — PADRÃO
+
+★ Treinar passadores de espeto; ensaio completo do serviço de rodízio
+
+Chef Jamim + Head Chef
+
+Pré-abertura
+
+P3 — PADRÃO
+
+Distribuir POPs; treinamento completo de toda a equipe
+
+Chef Jamim + Head Chef
+
+Pré-abertura
+
+P3 — PADRÃO
+
+Realizar soft opening com convidades para ajuste fino do serviço
+
+Gestão + Equipe Completa
+
+1 semana antes da abertura
+
+
+
+
+
+
+
+AURA HOTEL ROOFTOP STEAKHOUSE
+
+Plano Mestre Operacional do Restaurante
+
+CONCEITO HÍBRIDO — Parrilla Argentina · Churrasco Brasileiro · 120 Lugares
+
+Elaborado pelo Chef Jamim Moura Santos  •  Georgetown, Guiana  •  2025
+
+◈  CONFIDENCIAL  ◈
+
+Georgetown, Guiana  •  2026  •  Confidencial
+
+--- CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA TÉCNICA #00825.docx ---
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA TÉCNICA #00825-GT
+
+
+
+CONTRATANTE: Sr. Sérgio – Hotel Georgetown, Guiana.
+
+CONTRATADO: Jamim Santos – Chef Consultor Executivo.
+
+
+
+1. INVESTIMENTO E CONDIÇÕES DE PAGAMENTO
+
+Fica acordado o valor total de R$ 40.000,00 (Quarenta mil reais) pelos honorários fixos de consultoria, além da taxa de sucesso sobre equipamentos:
+
+Sinal (50%): R$ 20.000,00 pagos na assinatura deste instrumento. (A liberação da Planta de Máquinas está condicionada a este pagamento).
+
+Parcela Final (50%): R$ 20.000,00 pagos em 45 dias após o pagamento do sinal.
+
+Taxa de Sucesso (Comissão): 5% (cinco por cento) sobre o valor bruto de compra de equipamentos de cozinha e mobília técnica (Parrilha, Exaustão, Bancadas de Inox, Refrigeração, etc.). Utensílios de salão ficam excluídos desta taxa.
+
+Gatilho de Pagamento: A comissão será devida e paga imediatamente após a efetivação das compras e emissão das Notas Fiscais pelos fornecedores.
+
+
+
+2. PRAZO DE EXECUÇÃO E ENTREGAS
+
+Prazo Global: 45 (quarenta e cinco) dias úteis para a entrega de todos os manuais e planos técnicos.
+
+Condicionalidade: O cumprimento deste prazo está estritamente vinculado à entrega das plantas base (DWG/PDF) e à agilidade no fornecimento de informações por parte do corpo técnico do Contratante (Arquitetos e Engenheiros). Atrasos de terceiros acarretarão na reprogramação automática do cronograma.
+
+
+
+
+3. ESCOPO TÉCNICO DETALHADO
+
+3.1 - Engenharia de Fluxo e Operação
+
+Planta de Máquinas: Elaboração de layout técnico com a indicação exata dos pontos necessários (elétrica, hidráulica e gás) de acordo com a especificidade de cada equipamento selecionado.
+
+Manuais e Start-up: Entrega do Manual de Boas Práticas (SOP/POP) e Cronograma de Manutenção Preventiva.
+
+Logística Vertical: Inteligência de abastecimento e sinalização técnica entre Térreo e Rooftop.
+
+3.2 - Planejamento de Utensílios e Mise-en-place (Cozinha/Bar)
+
+Curadoria de Produção: Seleção completa de panelas, facas, GNs, chinois, tabuleiros e comandários.
+
+Mixologia e Bar: Especificação técnica de maquinário e utensílios de bar.
+
+Gestão de Compras Técnicas: Especificação de lixeiras industriais, ralos e sistema de organização de estoque.
+
+3.3 - Curadoria de Experiência do Cliente (Tabletop)
+
+Enxoval de Mesa: Seleção de louçaria, talheres, taças, copos e sousplats em consonância com o design de interiores.
+
+Projeto de Serviço: Consultoria visual para carrinhos de serviço e apresentação de cardápio na mesa.
+
+
+
+4. CRONOGRAMA DE VISITAS E LOGÍSTICA
+
+Visitas Presenciais (Total 03): 1. Levantamento técnico, análise de fluxo e reconhecimento da obra. 2. Acompanhamento da entrega técnica e recebimento dos equipamentos. 3. Supervisão final das instalações operacionais e ajustes de fluxo (Start-up).
+
+Frete Internacional: Todo equipamento destinado a Georgetown deve ser transportado em veículo apropriado (caminhão baú). O custo deste transporte, bem como trâmites aduaneiros e fretes, é de responsabilidade exclusiva do Contratante.
+
+Despesas de Campo: Passagens, traslados, hospedagem e alimentação são de responsabilidade do Contratante.
+
+
+
+5. RESPONSABILIDADES TÉCNICAS E LIMITAÇÕES
+
+Escopo de Atuação: O Contratado atua como consultor de fluxo e operação. Não é de responsabilidade do Contratado a execução de projetos estruturais, elétricos, hidráulicos ou civis que exijam ART (Anotação de Responsabilidade Técnica).
+
+Interface Técnica: As indicações de pontos fornecidas pelo Contratado na Planta de Máquinas devem ser validadas e executadas pelos engenheiros e arquitetos responsáveis pela obra, garantindo conformidade com as normas locais da Guiana.
+
+
+
+	6. VALIDADE DA PROPOSTA	
+
+Esta proposta tem validade de 07 (sete) dias a partir da data de envio.
+
+
+
+Boa Vista-RR, 30 de Dezembro de 2025.
+
+
+
+
+
+Assinaturas:
+
+
+
+Sr. Sérgio – Contratante
+
+
+
+Jamim Santos – Contratado
+
+
+
+  2 | Page
+
+Email: jamim.moura@gmail.com
+Instagram: @Chef_jamimsantos
+
+Contato: 55 95 981266-6367
+
